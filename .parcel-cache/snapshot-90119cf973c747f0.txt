@@ -1,90 +1,21 @@
-6267
+6284
+62E:\PracticeHTMLCSS\node_modules\svgo\plugins\removeMetadata.js133728685968160000 0
+60E:\PracticeHTMLCSS\node_modules\msgpackr-extract\binding.gyp133739537358540000 0
+27E:\PracticeHTMLCSS\.babelrc133741389452814658 0
+66E:\PracticeHTMLCSS\node_modules\@parcel\core\lib\CommittedAsset.js133739537316340000 0
+62E:\PracticeHTMLCSS\node_modules\type-fest\ts41\kebab-case.d.ts133728685930040000 0
+81E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\input-email-tel-url.js133743878720140000 0
+77E:\PracticeHTMLCSS\node_modules\@babel\types\lib\converters\toKeyAlias.js.map133743879846460000 0
+31E:\PracticeHTMLCSS\package.json133743884630572600 0
+80E:\PracticeHTMLCSS\node_modules\@ampproject\remapping\dist\types\source-map.d.ts133728685834680000 0
+70E:\PracticeHTMLCSS\node_modules\@parcel\core\lib\public\BundleGroup.js133739537316340000 0
+62E:\PracticeHTMLCSS\src\assets\images\mobile\BACKGROUND (1).png133740826860749980 0
 46E:\PracticeHTMLCSS\node_modules\domelementtype133743878732025706 1
 38E:\PracticeHTMLCSS\node_modules\base-x133743878731975883 1
 52E:\PracticeHTMLCSS\node_modules\semver\bin\semver.js133728685825120000 0
 63E:\PracticeHTMLCSS\node_modules\lightningcss\node\index.js.flow133739537363270000 0
 83E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\minipass\dist\esm\index.js133728685982520000 0
-23E:\PracticeHTMLCSS\dist133743888809517751 1
-65E:\PracticeHTMLCSS\node_modules\@babel\generator\lib\index.js.map133743879846480000 0
-90E:\PracticeHTMLCSS\node_modules\@parcel\rust\parcel-node-bindings.linux-arm-gnueabihf.node133739537329340000 0
-59E:\PracticeHTMLCSS\node_modules\type-fest\source\entry.d.ts133728685930040000 0
-59E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_throw.cjs133739537365220000 0
-45E:\PracticeHTMLCSS\src\assets\icons\line2.svg133740815044277311 0
-63E:\PracticeHTMLCSS\node_modules\resolve\test\resolver\multirepo133743879853375583 1
-67E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\alt-sa.js133743878720140000 0
-60E:\PracticeHTMLCSS\node_modules\glob\dist\cjs\index.d.ts.map133731053826340000 0
-80E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\element-from-point.js133743878720140000 0
-26E:\PracticeHTMLCSS\.sassrc133740850292910209 0
-55E:\PracticeHTMLCSS\node_modules\js-yaml\lib\type\set.js133728685853040000 0
-58E:\PracticeHTMLCSS\node_modules\svgo\plugins\removeDesc.js133728685968160000 0
-62E:\PracticeHTMLCSS\node_modules\minimatch\dist\mjs\unescape.js133731053828750000 0
-56E:\PracticeHTMLCSS\node_modules\resolve\test\node_path\y133743879851917467 1
-74E:\PracticeHTMLCSS\node_modules\msgpackr-extract\bin\download-prebuilds.js133739537358540000 0
-40E:\PracticeHTMLCSS\node_modules\reselect133743879852229945 1
-68E:\PracticeHTMLCSS\node_modules\@babel\types\lib\validators\isVar.js133743879846460000 0
-82E:\PracticeHTMLCSS\node_modules\@parcel\diagnostic\test\JSONCodeHighlights.test.js133739537323320000 0
-46E:\PracticeHTMLCSS\node_modules\srcset\license133739537365100000 0
-100E:\PracticeHTMLCSS\node_modules\posthtml-include\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133739537365010000 0
-93E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\lru-cache\dist\commonjs\index.min.js133728685982490000 0
-72E:\PracticeHTMLCSS\node_modules\@parcel\utils\src\generateCertificate.js133739537316350000 0
-67E:\PracticeHTMLCSS\node_modules\sass\types\value\argument_list.d.ts133742582771630000 0
-34E:\PracticeHTMLCSS\dist\index.html133743888664151020 0
-52E:\PracticeHTMLCSS\node_modules\msgpackr\unpack.d.ts133739537323060000 0
-59E:\PracticeHTMLCSS\node_modules\resolve\test\precedence\aaa133743879853375583 1
-61E:\PracticeHTMLCSS\node_modules\svgo\plugins\convertColors.js133728685968160000 0
-84E:\PracticeHTMLCSS\node_modules\@parcel\package-manager\test\fixtures\packages\peers133743878736715125 1
-36E:\PracticeHTMLCSS\src\layout\assets133743882548014293 1
-57E:\PracticeHTMLCSS\node_modules\is-arrayish\.editorconfig133728686001340000 0
-90E:\PracticeHTMLCSS\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133739537360110000 0
-56E:\PracticeHTMLCSS\src\stylesheet\base\_boilerplate.scss133741431165789246 0
-56E:\PracticeHTMLCSS\node_modules\svgo\lib\svgo\jsAPI.d.ts133728685968160000 0
-54E:\PracticeHTMLCSS\node_modules\picomatch\lib\parse.js133728685802570000 0
-62E:\PracticeHTMLCSS\node_modules\glob\dist\mjs\processor.js.map133731053826340000 0
-51E:\PracticeHTMLCSS\dist\PracticeHTMLCSS.59712999.js133743888664013150 0
-84E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133743878720140000 0
-58E:\PracticeHTMLCSS\node_modules\color-convert\package.json133728685796280000 0
-45E:\PracticeHTMLCSS\node_modules\color-convert133743878732015741 1
-61E:\PracticeHTMLCSS\node_modules\csso\lib\restructure\utils.js133728685966790000 0
-65E:\PracticeHTMLCSS\node_modules\postcss-value-parser\lib\index.js133728685842760000 0
-63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\GU.js133743878720140000 0
-58E:\PracticeHTMLCSS\node_modules\msgpackr-extract\README.md133739537358540000 0
-57E:\PracticeHTMLCSS\src\stylesheet\components\_button.scss133742600667514005 0
-63E:\PracticeHTMLCSS\node_modules\utility-types\dist\index.js.map133739537356560000 0
-43E:\PracticeHTMLCSS\src\stylesheet\main.scss133743181475857181 0
-80E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\unhandledrejection.js133743878720140000 0
-88E:\PracticeHTMLCSS\node_modules\@babel\types\lib\retrievers\getBindingIdentifiers.js.map133743879846460000 0
-83E:\PracticeHTMLCSS\node_modules\@parcel\core\test\fixtures\custom-format-infer-type133743878736444123 1
-59E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versions.json133739537457080000 0
-56E:\PracticeHTMLCSS\node_modules\is-core-module\.eslintrc133728685873760000 0
-46E:\PracticeHTMLCSS\dist\index.05858833.css.map133743888809517751 0
-68E:\PracticeHTMLCSS\node_modules\@babel\types\lib\ast-types\generated133743879853375583 1
-40E:\PracticeHTMLCSS\node_modules\entities133743878732025706 1
-51E:\PracticeHTMLCSS\node_modules\locate-path\license133728685927820000 0
-61E:\PracticeHTMLCSS\node_modules\utility-types\dist\index.d.ts133739537356560000 0
-50E:\PracticeHTMLCSS\src\assets\icons\add-user 1.svg133743256388508115 0
-78E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\removeEmptyAttributes.mjs133739537457080000 0
-67E:\PracticeHTMLCSS\node_modules\@parcel\transformer-postcss\LICENSE133739537349780000 0
-47E:\PracticeHTMLCSS\node_modules\babel\README.md133741387611940000 0
-50E:\PracticeHTMLCSS\node_modules\json5\package.json133728685836760000 0
-43E:\PracticeHTMLCSS\src\assets\images\mobile133743882547701768 1
-61E:\PracticeHTMLCSS\node_modules\weak-lru-cache\dist\index.cjs133739537443320000 0
-51E:\PracticeHTMLCSS\node_modules\css-tree\lib\walker133743878736110512 1
-56E:\PracticeHTMLCSS\node_modules\entities\lib\decode.d.ts133739537468100000 0
-58E:\PracticeHTMLCSS\node_modules\posthtml-include\README.md133739542399970000 0
-88E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133739537457080000 0
-66E:\PracticeHTMLCSS\node_modules\resolve\test\resolver\invalid_main133743879853375583 1
-62E:\PracticeHTMLCSS\node_modules\mdn-data\css\units.schema.json133728685992740000 0
-77E:\PracticeHTMLCSS\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133739537343140000 0
-55E:\PracticeHTMLCSS\node_modules\@parcel\transformer-raw133743878731852101 1
-55E:\PracticeHTMLCSS\node_modules\js-yaml\lib\type\map.js133728685853040000 0
-55E:\PracticeHTMLCSS\src\stylesheet\base\_typography.scss133742588956821864 0
-79E:\PracticeHTMLCSS\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js133739537316340000 0
-47E:\PracticeHTMLCSS\node_modules\lmdb\caching.js133739537360110000 0
-44E:\PracticeHTMLCSS\src\stylesheet\pages\home133743882548170467 1
-47E:\PracticeHTMLCSS\node_modules\yallist\LICENSE133728685965090000 0
-62E:\PracticeHTMLCSS\node_modules\svgo\plugins\removeMetadata.js133728685968160000 0
-60E:\PracticeHTMLCSS\node_modules\msgpackr-extract\binding.gyp133739537358540000 0
-27E:\PracticeHTMLCSS\.babelrc133741389452814658 0
+23E:\PracticeHTMLCSS\dist133743894822195995 1
 60E:\PracticeHTMLCSS\node_modules\sass\types\value\string.d.ts133742582771630000 0
 63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\WF.js133743878720140000 0
 92E:\PracticeHTMLCSS\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133739537316340000 0
@@ -102,6 +33,21 @@
 87E:\PracticeHTMLCSS\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133728685879980000 0
 63E:\PracticeHTMLCSS\node_modules\update-browserslist-db\index.js133728685838880000 0
 32E:\PracticeHTMLCSS\jsconfig.json133741417292657551 0
+65E:\PracticeHTMLCSS\node_modules\@babel\generator\lib\index.js.map133743879846480000 0
+90E:\PracticeHTMLCSS\node_modules\@parcel\rust\parcel-node-bindings.linux-arm-gnueabihf.node133739537329340000 0
+59E:\PracticeHTMLCSS\node_modules\type-fest\source\entry.d.ts133728685930040000 0
+59E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_throw.cjs133739537365220000 0
+45E:\PracticeHTMLCSS\src\assets\icons\line2.svg133740815044277311 0
+63E:\PracticeHTMLCSS\node_modules\resolve\test\resolver\multirepo133743879853375583 1
+67E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\alt-sa.js133743878720140000 0
+60E:\PracticeHTMLCSS\node_modules\glob\dist\cjs\index.d.ts.map133731053826340000 0
+80E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\element-from-point.js133743878720140000 0
+26E:\PracticeHTMLCSS\.sassrc133740850292910209 0
+59E:\PracticeHTMLCSS\src\assets\images\desktop\rectangle3.png133739982469575397 0
+89E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133739537457080000 0
+75E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-boxshadow.js133743878720140000 0
+87E:\PracticeHTMLCSS\node_modules\@swc\helpers\src\_class_check_private_static_access.mjs133739537365220000 0
+36E:\PracticeHTMLCSS\package-lock.json133743884639978731 0
 37E:\PracticeHTMLCSS\posthtml.config.js133739952490772337 0
 70E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\passkeys.js133743878720140000 0
 53E:\PracticeHTMLCSS\node_modules\browserslist\error.js133742437397940000 0
@@ -120,16 +66,6 @@
 70E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_set_prototype_of.cjs133739537365220000 0
 87E:\PracticeHTMLCSS\node_modules\@parcel\runtime-js\src\helpers\browser\esm-js-loader.js133739537325860000 0
 48E:\PracticeHTMLCSS\node_modules\lmdb\src\txn.cpp133739537360110000 0
-59E:\PracticeHTMLCSS\src\assets\images\desktop\rectangle3.png133739982469575397 0
-89E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\050-modules.md133739537457080000 0
-75E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-boxshadow.js133743878720140000 0
-87E:\PracticeHTMLCSS\node_modules\@swc\helpers\src\_class_check_private_static_access.mjs133739537365220000 0
-36E:\PracticeHTMLCSS\package-lock.json133743884639978731 0
-66E:\PracticeHTMLCSS\node_modules\@parcel\core\lib\CommittedAsset.js133739537316340000 0
-62E:\PracticeHTMLCSS\node_modules\type-fest\ts41\kebab-case.d.ts133728685930040000 0
-81E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\input-email-tel-url.js133743878720140000 0
-77E:\PracticeHTMLCSS\node_modules\@babel\types\lib\converters\toKeyAlias.js.map133743879846460000 0
-31E:\PracticeHTMLCSS\package.json133743884630572600 0
 28E:\PracticeHTMLCSS\README.md133743874760796037 0
 52E:\PracticeHTMLCSS\node_modules\is-glob\package.json133728685851880000 0
 77E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\referrer-policy.js133743878720140000 0
@@ -146,11 +82,6 @@
 54E:\PracticeHTMLCSS\node_modules\path-scurry\LICENSE.md133728685982440000 0
 22E:\PracticeHTMLCSS\src133743882548014293 1
 63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\DK.js133743878720140000 0
-56E:\PracticeHTMLCSS\node_modules\glob\dist\cjs\index.d.ts133731053826340000 0
-51E:\PracticeHTMLCSS\src\stylesheet\pages\_index.scss133743181397752427 0
-65E:\PracticeHTMLCSS\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133739537360110000 0
-50E:\PracticeHTMLCSS\node_modules\@babel\compat-data133743879852073766 1
-58E:\PracticeHTMLCSS\node_modules\resolve\test\shadowed_core133743879851761869 1
 76E:\PracticeHTMLCSS\node_modules\supports-preserve-symlinks-flag\package.json133728685874040000 0
 79E:\PracticeHTMLCSS\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133739537343310000 0
 78E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-text-justify.js133743878720140000 0
@@ -169,6 +100,11 @@
 52E:\PracticeHTMLCSS\node_modules\@swc\core\Visitor.js133742577448170000 0
 69E:\PracticeHTMLCSS\node_modules\@parcel\utils\test\collection.test.js133739537316350000 0
 50E:\PracticeHTMLCSS\node_modules\htmlnano\index.mjs133739537457080000 0
+56E:\PracticeHTMLCSS\node_modules\glob\dist\cjs\index.d.ts133731053826340000 0
+51E:\PracticeHTMLCSS\src\stylesheet\pages\_index.scss133743181397752427 0
+65E:\PracticeHTMLCSS\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133739537360110000 0
+50E:\PracticeHTMLCSS\node_modules\@babel\compat-data133743879852073766 1
+58E:\PracticeHTMLCSS\node_modules\resolve\test\shadowed_core133743879851761869 1
 68E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\mergeStyles.cjs133739537457080000 0
 29E:\PracticeHTMLCSS\src\assets133743882547858006 1
 59E:\PracticeHTMLCSS\node_modules\semver\ranges\intersects.js133728685825120000 0
@@ -239,6 +175,17 @@
 50E:\PracticeHTMLCSS\src\assets\icons\Ellipse 21.svg133740823324570605 0
 48E:\PracticeHTMLCSS\node_modules\sass\types\value133743878025942620 1
 66E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_to_primitive.cjs133739537365220000 0
+65E:\PracticeHTMLCSS\node_modules\postcss-value-parser\lib\index.js133728685842760000 0
+63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\GU.js133743878720140000 0
+58E:\PracticeHTMLCSS\node_modules\msgpackr-extract\README.md133739537358540000 0
+57E:\PracticeHTMLCSS\src\stylesheet\components\_button.scss133742600667514005 0
+63E:\PracticeHTMLCSS\node_modules\utility-types\dist\index.js.map133739537356560000 0
+43E:\PracticeHTMLCSS\src\stylesheet\main.scss133743181475857181 0
+80E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\unhandledrejection.js133743878720140000 0
+88E:\PracticeHTMLCSS\node_modules\@babel\types\lib\retrievers\getBindingIdentifiers.js.map133743879846460000 0
+83E:\PracticeHTMLCSS\node_modules\@parcel\core\test\fixtures\custom-format-infer-type133743878736444123 1
+59E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versions.json133739537457080000 0
+56E:\PracticeHTMLCSS\node_modules\is-core-module\.eslintrc133728685873760000 0
 41E:\PracticeHTMLCSS\src\layout\footer.html133742602447254597 0
 81E:\PracticeHTMLCSS\node_modules\ordered-binary\.nyc_output\processinfo\index.json133739537441040000 0
 65E:\PracticeHTMLCSS\node_modules\@swc\helpers\_\_wrap_native_super133743878736349401 1
@@ -248,6 +195,15 @@
 50E:\PracticeHTMLCSS\src\stylesheet\base\_index.scss133741431233282930 0
 57E:\PracticeHTMLCSS\node_modules\weak-lru-cache\index.d.ts133739537443320000 0
 39E:\PracticeHTMLCSS\src\stylesheet\pages133743882548170467 1
+50E:\PracticeHTMLCSS\node_modules\json5\package.json133728685836760000 0
+43E:\PracticeHTMLCSS\src\assets\images\mobile133743882547701768 1
+61E:\PracticeHTMLCSS\node_modules\weak-lru-cache\dist\index.cjs133739537443320000 0
+51E:\PracticeHTMLCSS\node_modules\css-tree\lib\walker133743878736110512 1
+55E:\PracticeHTMLCSS\src\stylesheet\base\_typography.scss133742588956821864 0
+79E:\PracticeHTMLCSS\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js133739537316340000 0
+47E:\PracticeHTMLCSS\node_modules\lmdb\caching.js133739537360110000 0
+44E:\PracticeHTMLCSS\src\stylesheet\pages\home133743882548170467 1
+47E:\PracticeHTMLCSS\node_modules\yallist\LICENSE133728685965090000 0
 58E:\PracticeHTMLCSS\src\stylesheet\pages\home\_explore.scss133743883288387011 0
 53E:\PracticeHTMLCSS\node_modules\path-exists\readme.md133728685928530000 0
 55E:\PracticeHTMLCSS\node_modules\sass\types\compile.d.ts133742582771630000 0
@@ -268,6 +224,14 @@
 59E:\PracticeHTMLCSS\src\assets\images\tablet\Rectangle 3.png133740825391501719 0
 49E:\PracticeHTMLCSS\node_modules\lines-and-columns133743878732182101 1
 56E:\PracticeHTMLCSS\src\stylesheet\components\_index.scss133741446708473480 0
+59E:\PracticeHTMLCSS\node_modules\resolve\test\precedence\aaa133743879853375583 1
+61E:\PracticeHTMLCSS\node_modules\svgo\plugins\convertColors.js133728685968160000 0
+84E:\PracticeHTMLCSS\node_modules\@parcel\package-manager\test\fixtures\packages\peers133743878736715125 1
+36E:\PracticeHTMLCSS\src\layout\assets133743882548014293 1
+57E:\PracticeHTMLCSS\node_modules\is-arrayish\.editorconfig133728686001340000 0
+90E:\PracticeHTMLCSS\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133739537360110000 0
+56E:\PracticeHTMLCSS\src\stylesheet\base\_boilerplate.scss133741431165789246 0
+56E:\PracticeHTMLCSS\node_modules\svgo\lib\svgo\jsAPI.d.ts133728685968160000 0
 81E:\PracticeHTMLCSS\node_modules\resolve\test\resolver\incorrect_main\package.json133728685824680000 0
 68E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_async_generator.js133739537365220000 0
 51E:\PracticeHTMLCSS\node_modules\callsites\readme.md133728685999120000 0
@@ -297,7 +261,7 @@
 71E:\PracticeHTMLCSS\node_modules\css-tree\lib\syntax\node\Declaration.js133728685967120000 0
 61E:\PracticeHTMLCSS\node_modules\update-browserslist-db\cli.js133728685838880000 0
 70E:\PracticeHTMLCSS\node_modules\@parcel\transformer-babel\src\types.js133739537345540000 0
-35E:\PracticeHTMLCSS\src\assets\icons133743882547545538 1
+35E:\PracticeHTMLCSS\src\assets\icons133744042636613509 1
 54E:\PracticeHTMLCSS\node_modules\glob\dist\cjs\index.js133731053826340000 0
 83E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\background-attachment.js133743878720140000 0
 76E:\PracticeHTMLCSS\node_modules\@parcel\transformer-postcss\lib\constants.js133739537349780000 0
@@ -348,7 +312,7 @@
 58E:\PracticeHTMLCSS\node_modules\@parcel\graph\lib\types.js133739537357190000 0
 41E:\PracticeHTMLCSS\src\layout\header.html133743888662650966 0
 48E:\PracticeHTMLCSS\node_modules\parcel\README.md133739537471100000 0
-39E:\PracticeHTMLCSS\src\layout\main.html133743882915117927 0
+39E:\PracticeHTMLCSS\src\layout\main.html133743894817993586 0
 66E:\PracticeHTMLCSS\node_modules\@parcel\core\src\Transformation.js133739537316340000 0
 55E:\PracticeHTMLCSS\node_modules\json5\dist\index.min.js133728685836760000 0
 40E:\PracticeHTMLCSS\node_modules\error-ex133743878732025706 1
@@ -370,6 +334,8 @@
 72E:\PracticeHTMLCSS\node_modules\@jridgewell\sourcemap-codec\package.json133728685944420000 0
 81E:\PracticeHTMLCSS\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133739537360110000 0
 44E:\PracticeHTMLCSS\src\assets\images\desktop133743882547701768 1
+70E:\PracticeHTMLCSS\node_modules\@parcel\transformer-babel\package.json133739537345540000 0
+44E:\PracticeHTMLCSS\node_modules\@parcel\rust133743878731051554 1
 106E:\PracticeHTMLCSS\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm.js133739537323510000 0
 40E:\PracticeHTMLCSS\node_modules\has-flag133743878732025706 1
 66E:\PracticeHTMLCSS\node_modules\@parcel\workers\src\core-worker.js133739537322460000 0
@@ -378,7 +344,6 @@
 85E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-overscroll-behavior.js133743878720140000 0
 43E:\PracticeHTMLCSS\src\assets\images\tablet133743882547858006 1
 56E:\PracticeHTMLCSS\node_modules\csso\lib\clean\Atrule.js133728685966790000 0
-54E:\PracticeHTMLCSS\src\assets\icons\Layer_1-vector.svg133740822250683101 0
 45E:\PracticeHTMLCSS\node_modules\.bin\svgo.cmd133743879854542295 0
 87E:\PracticeHTMLCSS\node_modules\@babel\helpers\lib\helpers\classPrivateFieldInitSpec.js133743879846620000 0
 49E:\PracticeHTMLCSS\node_modules\csso\lib\index.js133728685966790000 0
@@ -402,9 +367,6 @@
 46E:\PracticeHTMLCSS\node_modules\is-core-module133743879852229945 1
 46E:\PracticeHTMLCSS\node_modules\@swc\helpers\_133743878728822049 1
 60E:\PracticeHTMLCSS\node_modules\resolve\test\node_path\x\aaa133743879853375583 1
-80E:\PracticeHTMLCSS\node_modules\@ampproject\remapping\dist\types\source-map.d.ts133728685834680000 0
-70E:\PracticeHTMLCSS\node_modules\@parcel\core\lib\public\BundleGroup.js133739537316340000 0
-62E:\PracticeHTMLCSS\src\assets\images\mobile\BACKGROUND (1).png133740826860749980 0
 74E:\PracticeHTMLCSS\node_modules\@parcel\core\lib\requests\ConfigRequest.js133739537316340000 0
 65E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_await_value.cjs133739537365220000 0
 69E:\PracticeHTMLCSS\node_modules\svgo\plugins\removeEmptyContainers.js133728685968160000 0
@@ -482,6 +444,12 @@
 43E:\PracticeHTMLCSS\node_modules\is-arrayish133743878732025706 1
 60E:\PracticeHTMLCSS\src\assets\images\desktop\rectangle63.png133739984155088615 0
 52E:\PracticeHTMLCSS\node_modules\posthtml-render\dist133743878734880624 1
+46E:\PracticeHTMLCSS\dist\index.05858833.css.map133743888809517751 0
+68E:\PracticeHTMLCSS\node_modules\@babel\types\lib\ast-types\generated133743879853375583 1
+40E:\PracticeHTMLCSS\node_modules\entities133743878732025706 1
+51E:\PracticeHTMLCSS\node_modules\locate-path\license133728685927820000 0
+61E:\PracticeHTMLCSS\node_modules\utility-types\dist\index.d.ts133739537356560000 0
+50E:\PracticeHTMLCSS\src\assets\icons\add-user 1.svg133743256388508115 0
 48E:\PracticeHTMLCSS\node_modules\srcset\readme.md133739537365100000 0
 78E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\multibackgrounds.js133743878720140000 0
 54E:\PracticeHTMLCSS\node_modules\safe-buffer\index.d.ts133728685949400000 0
@@ -495,7 +463,6 @@
 49E:\PracticeHTMLCSS\src\assets\icons\booking 1.svg133740819211713782 0
 52E:\PracticeHTMLCSS\node_modules\posthtml-include\lib133743879186434057 1
 61E:\PracticeHTMLCSS\node_modules\csso\lib\clean\Declaration.js133728685966790000 0
-47E:\PracticeHTMLCSS\src\assets\icons\Group 2.svg133740817911198488 0
 50E:\PracticeHTMLCSS\src\assets\icons\calendar 1.svg133740821849789936 0
 63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\AD.js133743878720140000 0
 81E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-optional-pseudo.js133743878720140000 0
@@ -510,6 +477,10 @@
 85E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js133743878720140000 0
 50E:\PracticeHTMLCSS\src\assets\icons\Ellipse 20.svg133740823248619655 0
 62E:\PracticeHTMLCSS\node_modules\sass\types\legacy\options.d.ts133742582771630000 0
+68E:\PracticeHTMLCSS\node_modules\css-tree\lib\syntax\node\Function.js133728685967120000 0
+63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\JP.js133743878720140000 0
+81E:\PracticeHTMLCSS\node_modules\@babel\types\lib\constants\generated\index.js.map133743879846460000 0
+49E:\PracticeHTMLCSS\node_modules\srcset\index.d.ts133739537365100000 0
 58E:\PracticeHTMLCSS\node_modules\nth-check\lib\index.js.map133728685993860000 0
 54E:\PracticeHTMLCSS\src\assets\icons\Ellipse 22 (1).svg133740823424715324 0
 83E:\PracticeHTMLCSS\node_modules\@swc\helpers\_\_class_static_private_field_spec_get133743878736330024 1
@@ -528,47 +499,37 @@
 58E:\PracticeHTMLCSS\node_modules\nth-check\lib\esm\index.js133728685993860000 0
 44E:\PracticeHTMLCSS\node_modules\argparse\lib133743878733992537 1
 78E:\PracticeHTMLCSS\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133739537337550000 0
-50E:\PracticeHTMLCSS\src\assets\icons\Ellipse 23.svg133743270703669194 0
 68E:\PracticeHTMLCSS\node_modules\resolve\test\module_dir\xmodules\aaa133743879853375583 1
 68E:\PracticeHTMLCSS\node_modules\@parcel\optimizer-image\package.json133739537340030000 0
 50E:\PracticeHTMLCSS\node_modules\lmdb\src\lmdb-js.h133739537360110000 0
-48E:\PracticeHTMLCSS\src\assets\icons\Frame 50.png133740821335723191 0
 69E:\PracticeHTMLCSS\node_modules\reselect\es\versionedTypes\index.d.ts133731053826370000 0
-48E:\PracticeHTMLCSS\src\assets\icons\Frame 72.svg133740824629965305 0
 59E:\PracticeHTMLCSS\node_modules\glob\dist\cjs\walker.js.map133731053826340000 0
 62E:\PracticeHTMLCSS\node_modules\glob\dist\mjs\has-magic.js.map133731053826340000 0
 51E:\PracticeHTMLCSS\node_modules\ansi-styles\license133728685794280000 0
-56E:\PracticeHTMLCSS\src\assets\icons\Graphic_Elements.svg133740823849781394 0
 53E:\PracticeHTMLCSS\node_modules\svgo\lib\svgo-node.js133728685968160000 0
 53E:\PracticeHTMLCSS\node_modules\safe-buffer\README.md133728685949400000 0
 75E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\console-basic.js133743878720140000 0
 62E:\PracticeHTMLCSS\node_modules\css-what\lib\es\stringify.d.ts133728685995390000 0
 75E:\PracticeHTMLCSS\node_modules\@parcel\compressor-raw\lib\RawCompressor.js133739537336400000 0
 40E:\PracticeHTMLCSS\node_modules\svgo\lib133743878735013328 1
-49E:\PracticeHTMLCSS\src\assets\icons\Group (1).svg133740818046032938 0
 80E:\PracticeHTMLCSS\node_modules\minimatch\dist\mjs\assert-valid-pattern.d.ts.map133731053828750000 0
 87E:\PracticeHTMLCSS\node_modules\@babel\helpers\lib\helpers\classPrivateFieldSet2.js.map133743879846620000 0
-47E:\PracticeHTMLCSS\src\assets\icons\Group 3.svg133740818743287137 0
 61E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_inherits.js133739537365220000 0
+47E:\PracticeHTMLCSS\src\assets\icons\group 3.svg133740818743287137 0
 94E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\010-introduction.md133739537457080000 0
 58E:\PracticeHTMLCSS\node_modules\tslib\modules\package.json133739537464250000 0
 58E:\PracticeHTMLCSS\node_modules\htmlnano\docs\netlify.toml133739537457080000 0
 45E:\PracticeHTMLCSS\node_modules\svgo\bin\svgo133728685968160000 0
 63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\MS.js133743878720140000 0
-50E:\PracticeHTMLCSS\src\assets\icons\Group 9235.svg133740818652341391 0
 77E:\PracticeHTMLCSS\node_modules\posthtml-include\node_modules\posthtml-parser133743879186434057 1
-50E:\PracticeHTMLCSS\src\assets\icons\Group 9236.svg133740820231543048 0
 64E:\PracticeHTMLCSS\node_modules\@babel\core\lib\config\plugin.js133743879846410000 0
 55E:\PracticeHTMLCSS\node_modules\weak-lru-cache\index.js133739537443320000 0
 52E:\PracticeHTMLCSS\node_modules\is-arrayish\index.js133728686001340000 0
 55E:\PracticeHTMLCSS\node_modules\glob\dist\cjs\ignore.js133731053826340000 0
 75E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\readonly-attr.js133743878720140000 0
 61E:\PracticeHTMLCSS\node_modules\posthtml-render\dist\index.js133739537364140000 0
-50E:\PracticeHTMLCSS\src\assets\icons\Group 9237.svg133740820080362501 0
 63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\SK.js133743878720140000 0
 62E:\PracticeHTMLCSS\node_modules\resolve\test\resolver\dot_main133743879853375583 1
-50E:\PracticeHTMLCSS\src\assets\icons\Group 9239.svg133740821578399365 0
-45E:\PracticeHTMLCSS\src\assets\icons\Group.svg133740817823413322 0
 70E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\minipass\dist133743879851448824 1
 76E:\PracticeHTMLCSS\node_modules\@babel\core\lib\config\files\module-types.js133743879846410000 0
 58E:\PracticeHTMLCSS\node_modules\svgo\plugins\cleanupIDs.js133728685968160000 0
@@ -627,7 +588,6 @@
 58E:\PracticeHTMLCSS\node_modules\@parcel\watcher\wrapper.js133731033011860000 0
 55E:\PracticeHTMLCSS\node_modules\escalade\sync\index.mjs133728685918300000 0
 72E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\word-break.js133743878720140000 0
-51E:\PracticeHTMLCSS\src\assets\icons\OBJECTS (1).svg133740825094152737 0
 46E:\PracticeHTMLCSS\node_modules\p-try\index.js133728686007880000 0
 60E:\PracticeHTMLCSS\node_modules\@parcel\profiler\build-ts.js133739537324120000 0
 59E:\PracticeHTMLCSS\node_modules\semver\functions\compare.js133728685825120000 0
@@ -642,7 +602,6 @@
 57E:\PracticeHTMLCSS\node_modules\htmlparser2\lib\Parser.js133739537463350000 0
 77E:\PracticeHTMLCSS\node_modules\@babel\core\lib\config\helpers\environment.js133743879846410000 0
 54E:\PracticeHTMLCSS\node_modules\@parcel\compressor-raw133743878729688663 1
-47E:\PracticeHTMLCSS\src\assets\icons\OBJECTS.svg133740824364321242 0
 57E:\PracticeHTMLCSS\node_modules\lines-and-columns\LICENSE133728685962310000 0
 60E:\PracticeHTMLCSS\node_modules\type-fest\source\except.d.ts133728685930040000 0
 46E:\PracticeHTMLCSS\src\assets\icons\plane1.svg133743207137314863 0
@@ -795,6 +754,9 @@
 41E:\PracticeHTMLCSS\node_modules\type-fest133743878733065665 1
 69E:\PracticeHTMLCSS\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133728685968160000 0
 37E:\PracticeHTMLCSS\node_modules\clone133743878732025706 1
+58E:\PracticeHTMLCSS\node_modules\color-convert\package.json133728685796280000 0
+45E:\PracticeHTMLCSS\node_modules\color-convert133743878732015741 1
+61E:\PracticeHTMLCSS\node_modules\csso\lib\restructure\utils.js133728685966790000 0
 65E:\PracticeHTMLCSS\node_modules\update-browserslist-db\index.d.ts133728685838880000 0
 41E:\PracticeHTMLCSS\node_modules\.bin\sass133743879854640431 0
 78E:\PracticeHTMLCSS\node_modules\.bin\node-gyp-build-optional-packages-optional133743879854542295 0
@@ -863,9 +825,9 @@
 77E:\PracticeHTMLCSS\node_modules\@babel\types\lib\validators\matchesPattern.js133743879846460000 0
 40E:\PracticeHTMLCSS\node_modules\domutils133743878732025706 1
 52E:\PracticeHTMLCSS\node_modules\electron-to-chromium133743878732025706 1
-60E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versioned_docs133743878729532382 1
-57E:\PracticeHTMLCSS\node_modules\dotenv\lib\cli-options.js133739537323020000 0
 78E:\PracticeHTMLCSS\node_modules\node-gyp-build-optional-packages\build-test.js133739537429380000 0
+57E:\PracticeHTMLCSS\node_modules\dotenv\lib\cli-options.js133739537323020000 0
+60E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versioned_docs133743878729532382 1
 59E:\PracticeHTMLCSS\node_modules\@parcel\utils\src\config.js133739537316350000 0
 64E:\PracticeHTMLCSS\node_modules\node-gyp-build-optional-packages133743878732861576 1
 61E:\PracticeHTMLCSS\node_modules\resolve\test\shadowed_core.js133728685824680000 0
@@ -1118,6 +1080,19 @@
 40E:\PracticeHTMLCSS\node_modules\readdirp133743878025732933 1
 61E:\PracticeHTMLCSS\node_modules\mdn-data\css\definitions.json133728685992740000 0
 51E:\PracticeHTMLCSS\node_modules\regenerator-runtime133743878733065665 1
+55E:\PracticeHTMLCSS\node_modules\js-yaml\lib\type\set.js133728685853040000 0
+58E:\PracticeHTMLCSS\node_modules\svgo\plugins\removeDesc.js133728685968160000 0
+62E:\PracticeHTMLCSS\node_modules\minimatch\dist\mjs\unescape.js133731053828750000 0
+56E:\PracticeHTMLCSS\node_modules\resolve\test\node_path\y133743879851917467 1
+74E:\PracticeHTMLCSS\node_modules\msgpackr-extract\bin\download-prebuilds.js133739537358540000 0
+40E:\PracticeHTMLCSS\node_modules\reselect133743879852229945 1
+68E:\PracticeHTMLCSS\node_modules\@babel\types\lib\validators\isVar.js133743879846460000 0
+82E:\PracticeHTMLCSS\node_modules\@parcel\diagnostic\test\JSONCodeHighlights.test.js133739537323320000 0
+46E:\PracticeHTMLCSS\node_modules\srcset\license133739537365100000 0
+79E:\PracticeHTMLCSS\node_modules\@babel\helpers\lib\helpers\slicedToArray.js.map133743879846620000 0
+91E:\PracticeHTMLCSS\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js.map133728685944420000 0
+57E:\PracticeHTMLCSS\node_modules\path-scurry\dist\commonjs133743879853219158 1
+62E:\PracticeHTMLCSS\node_modules\nth-check\lib\compile.d.ts.map133728685993860000 0
 63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\UZ.js133743878720140000 0
 39E:\PracticeHTMLCSS\node_modules\resolve133743879852229945 1
 60E:\PracticeHTMLCSS\node_modules\cosmiconfig\dist\util.js.map133739537465120000 0
@@ -1146,8 +1121,8 @@
 52E:\PracticeHTMLCSS\node_modules\weak-lru-cache\tests133743878735084126 1
 50E:\PracticeHTMLCSS\node_modules\htmlnano\README.md133739537457080000 0
 75E:\PracticeHTMLCSS\node_modules\@parcel\transformer-svg\lib\dependencies.js133739537343140000 0
-55E:\PracticeHTMLCSS\node_modules\@parcel\transformer-css133743879853940001 1
 46E:\PracticeHTMLCSS\node_modules\supports-color133743878733065665 1
+55E:\PracticeHTMLCSS\node_modules\@parcel\transformer-css133743879853940001 1
 63E:\PracticeHTMLCSS\node_modules\supports-preserve-symlinks-flag133743879852229945 1
 81E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\requestidlecallback.js133743878720140000 0
 55E:\PracticeHTMLCSS\node_modules\semver\ranges\subset.js133728685825120000 0
@@ -1333,12 +1308,12 @@
 54E:\PracticeHTMLCSS\node_modules\picomatch\lib\utils.js133728685802570000 0
 42E:\PracticeHTMLCSS\node_modules\fclone\src133743879186434057 1
 61E:\PracticeHTMLCSS\node_modules\type-fest\source\entries.d.ts133728685930040000 0
-60E:\PracticeHTMLCSS\node_modules\svgo\plugins\cleanupAttrs.js133728685968160000 0
 70E:\PracticeHTMLCSS\node_modules\source-map\lib\source-map-generator.js133728685839310000 0
 73E:\PracticeHTMLCSS\node_modules\@parcel\core\test\fixtures\common-targets133743878736432496 1
 70E:\PracticeHTMLCSS\node_modules\type-fest\source\iterable-element.d.ts133728685930040000 0
 69E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_write_only_error.js133739537365220000 0
 48E:\PracticeHTMLCSS\node_modules\stable\README.md133728685966820000 0
+60E:\PracticeHTMLCSS\node_modules\svgo\plugins\cleanupAttrs.js133728685968160000 0
 53E:\PracticeHTMLCSS\node_modules\@parcel\codeframe\lib133743878733418469 1
 69E:\PracticeHTMLCSS\node_modules\type-fest\source\merge-exclusive.d.ts133728685930040000 0
 63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\LU.js133743878720140000 0
@@ -1472,6 +1447,11 @@
 56E:\PracticeHTMLCSS\node_modules\@parcel\watcher\index.js133731033011860000 0
 46E:\PracticeHTMLCSS\node_modules\svgo\README.md133728685968160000 0
 62E:\PracticeHTMLCSS\node_modules\resolve\test\precedence\aaa.js133728685824680000 0
+82E:\PracticeHTMLCSS\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133739537316350000 0
+51E:\PracticeHTMLCSS\node_modules\is-number\README.md133728685806760000 0
+47E:\PracticeHTMLCSS\dist\rectangle3.5559a775.png133743894822195995 0
+47E:\PracticeHTMLCSS\node_modules\srcset\index.js133739537365100000 0
+53E:\PracticeHTMLCSS\node_modules\semver\internal\re.js133728685825120000 0
 73E:\PracticeHTMLCSS\node_modules\svgo\plugins\addAttributesToSVGElement.js133728685968160000 0
 84E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js133743878720140000 0
 70E:\PracticeHTMLCSS\node_modules\svgo\plugins\convertEllipseToCircle.js133728685968160000 0
@@ -1610,14 +1590,6 @@
 69E:\PracticeHTMLCSS\node_modules\@parcel\core\test\BundleGraph.test.js133739537316340000 0
 66E:\PracticeHTMLCSS\node_modules\dom-serializer\lib\foreignNames.js133728686005860000 0
 52E:\PracticeHTMLCSS\node_modules\stable\stable.min.js133728685966820000 0
-68E:\PracticeHTMLCSS\node_modules\css-tree\lib\syntax\node\Function.js133728685967120000 0
-63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\JP.js133743878720140000 0
-81E:\PracticeHTMLCSS\node_modules\@babel\types\lib\constants\generated\index.js.map133743879846460000 0
-49E:\PracticeHTMLCSS\node_modules\srcset\index.d.ts133739537365100000 0
-82E:\PracticeHTMLCSS\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133739537316350000 0
-51E:\PracticeHTMLCSS\node_modules\is-number\README.md133728685806760000 0
-47E:\PracticeHTMLCSS\node_modules\srcset\index.js133739537365100000 0
-53E:\PracticeHTMLCSS\node_modules\semver\internal\re.js133728685825120000 0
 49E:\PracticeHTMLCSS\node_modules\source-map-js\lib133743878025922688 1
 86E:\PracticeHTMLCSS\node_modules\@babel\types\lib\modifications\removePropertiesDeep.js133743879846460000 0
 83E:\PracticeHTMLCSS\node_modules\@jridgewell\resolve-uri\dist\types\resolve-uri.d.ts133728685943880000 0
@@ -1778,9 +1750,9 @@
 49E:\PracticeHTMLCSS\node_modules\sass\package.json133742582771630000 0
 54E:\PracticeHTMLCSS\node_modules\json5\lib\unicode.d.ts133728685836760000 0
 49E:\PracticeHTMLCSS\node_modules\sass\sass.dart.js133742582771630000 0
+63E:\PracticeHTMLCSS\node_modules\path-scurry\dist\esm\index.d.ts133728685982440000 0
 59E:\PracticeHTMLCSS\node_modules\@parcel\events\src\types.js133739537324010000 0
 84E:\PracticeHTMLCSS\node_modules\resolve\test\resolver\symlinked\package\package.json133728685824680000 0
-63E:\PracticeHTMLCSS\node_modules\path-scurry\dist\esm\index.d.ts133728685982440000 0
 52E:\PracticeHTMLCSS\node_modules\sass\sass.default.js133742582771630000 0
 76E:\PracticeHTMLCSS\node_modules\@babel\core\lib\config\config-descriptors.js133743879846410000 0
 49E:\PracticeHTMLCSS\node_modules\find-up\readme.md133728685877390000 0
@@ -1808,6 +1780,10 @@
 89E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_class_static_private_field_spec_get.cjs133739537365220000 0
 50E:\PracticeHTMLCSS\node_modules\@parcel\plugin\lib133743878733690622 1
 47E:\PracticeHTMLCSS\node_modules\sass\types\util133743878025932653 1
+72E:\PracticeHTMLCSS\node_modules\@parcel\utils\src\generateCertificate.js133739537316350000 0
+67E:\PracticeHTMLCSS\node_modules\sass\types\value\argument_list.d.ts133742582771630000 0
+93E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\lru-cache\dist\commonjs\index.min.js133728685982490000 0
+100E:\PracticeHTMLCSS\node_modules\posthtml-include\node_modules\posthtml-parser\dist\chunk.2UQLUWPH.js133739537365010000 0
 61E:\PracticeHTMLCSS\node_modules\sass\types\value\boolean.d.ts133742582771630000 0
 62E:\PracticeHTMLCSS\node_modules\reselect\src\defaultMemoize.ts133731053826370000 0
 74E:\PracticeHTMLCSS\node_modules\@parcel\config-default\test\config.test.js133739537316360000 0
@@ -1935,6 +1911,11 @@
 63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\SR.js133743878720140000 0
 71E:\PracticeHTMLCSS\node_modules\@babel\core\lib\config\files\package.js133743879846410000 0
 51E:\PracticeHTMLCSS\node_modules\path-parse\index.js133728685873940000 0
+56E:\PracticeHTMLCSS\node_modules\entities\lib\decode.d.ts133739537468100000 0
+58E:\PracticeHTMLCSS\node_modules\posthtml-include\README.md133739542399970000 0
+88E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133739537457080000 0
+66E:\PracticeHTMLCSS\node_modules\resolve\test\resolver\invalid_main133743879853375583 1
+62E:\PracticeHTMLCSS\node_modules\mdn-data\css\units.schema.json133728685992740000 0
 64E:\PracticeHTMLCSS\node_modules\resolve\test\resolver\mug.coffee133728685824680000 0
 68E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\browserVersions.js133743878720140000 0
 77E:\PracticeHTMLCSS\node_modules\@babel\core\lib\config\resolve-targets.js.map133743879846410000 0
@@ -2065,12 +2046,13 @@
 77E:\PracticeHTMLCSS\node_modules\reselect\src\versionedTypes\package.dist.json133731053826370000 0
 83E:\PracticeHTMLCSS\node_modules\reselect\src\versionedTypes\ts46-mergeParameters.ts133731053826370000 0
 73E:\PracticeHTMLCSS\node_modules\reselect\src\legacyTypes\ts4.1\index.d.ts133731053826370000 0
+93E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\lru-cache\dist\commonjs\package.json133728685982490000 0
 52E:\PracticeHTMLCSS\node_modules\lightningcss\LICENSE133739537363270000 0
 62E:\PracticeHTMLCSS\node_modules\reselect\lib\defaultMemoize.js133731053826370000 0
 61E:\PracticeHTMLCSS\node_modules\@swc\helpers\src\_dispose.mjs133739537365220000 0
-46E:\PracticeHTMLCSS\node_modules\jsesc\jsesc.js133728685926380000 0
-42E:\PracticeHTMLCSS\node_modules\dotenv\lib133743878734197771 1
 53E:\PracticeHTMLCSS\node_modules\reselect\lib\index.js133731053826370000 0
+42E:\PracticeHTMLCSS\node_modules\dotenv\lib133743878734197771 1
+46E:\PracticeHTMLCSS\node_modules\jsesc\jsesc.js133728685926380000 0
 69E:\PracticeHTMLCSS\node_modules\postcss-value-parser\lib\stringify.js133728685842760000 0
 59E:\PracticeHTMLCSS\node_modules\@parcel\fs\src\OverlayFS.js133739537316320000 0
 52E:\PracticeHTMLCSS\node_modules\reselect\es\index.js133731053826370000 0
@@ -2170,6 +2152,7 @@
 65E:\PracticeHTMLCSS\node_modules\posthtml-expressions\lib\index.js133739542399860000 0
 72E:\PracticeHTMLCSS\node_modules\posthtml-expressions\lib\placeholders.js133739542399860000 0
 83E:\PracticeHTMLCSS\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133739537360110000 0
+43E:\PracticeHTMLCSS\dist\send 1.1df574ca.svg133743894821996749 0
 50E:\PracticeHTMLCSS\node_modules\posthtml\readme.md133739537363380000 0
 79E:\PracticeHTMLCSS\node_modules\@babel\helpers\lib\helpers\applyDecs2203.js.map133743879846620000 0
 46E:\PracticeHTMLCSS\node_modules\posthtml\types133743878734880624 1
@@ -2218,6 +2201,7 @@
 49E:\PracticeHTMLCSS\node_modules\lmdb\package.json133739537360110000 0
 78E:\PracticeHTMLCSS\node_modules\@parcel\package-manager\src\JSONParseStream.js133739537316380000 0
 48E:\PracticeHTMLCSS\node_modules\lmdb\src\dbi.cpp133739537360110000 0
+54E:\PracticeHTMLCSS\node_modules\picomatch\lib\parse.js133728685802570000 0
 84E:\PracticeHTMLCSS\node_modules\@babel\core\lib\transformation\normalize-file.js.map133743879846410000 0
 58E:\PracticeHTMLCSS\node_modules\picomatch\lib\picomatch.js133728685802570000 0
 65E:\PracticeHTMLCSS\node_modules\@swc\helpers\_\index\package.json133739537365220000 0
@@ -2266,11 +2250,6 @@
 89E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\lru-cache\dist\commonjs\index.js133728685982490000 0
 77E:\PracticeHTMLCSS\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow133739537323510000 0
 97E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\lru-cache\dist\commonjs\index.min.js.map133728685982490000 0
-93E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\lru-cache\dist\commonjs\package.json133728685982490000 0
-79E:\PracticeHTMLCSS\node_modules\@babel\helpers\lib\helpers\slicedToArray.js.map133743879846620000 0
-91E:\PracticeHTMLCSS\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js.map133728685944420000 0
-57E:\PracticeHTMLCSS\node_modules\path-scurry\dist\commonjs133743879853219158 1
-62E:\PracticeHTMLCSS\node_modules\nth-check\lib\compile.d.ts.map133728685993860000 0
 99E:\PracticeHTMLCSS\node_modules\@babel\helper-compilation-targets\node_modules\semver\bin\semver.js133728685825300000 0
 60E:\PracticeHTMLCSS\node_modules\glob\dist\mjs\pattern.js.map133731053826340000 0
 73E:\PracticeHTMLCSS\node_modules\@parcel\source-map\dist\SourceMap.js.flow133739537323510000 0
@@ -2324,6 +2303,7 @@
 46E:\PracticeHTMLCSS\node_modules\parcel\LICENSE133739537471100000 0
 58E:\PracticeHTMLCSS\node_modules\js-yaml\lib\schema\core.js133728685853040000 0
 51E:\PracticeHTMLCSS\node_modules\parcel\package.json133739537471100000 0
+48E:\PracticeHTMLCSS\src\assets\icons\frame 72.svg133740824629965305 0
 76E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_assert_this_initialized.js133739537365220000 0
 67E:\PracticeHTMLCSS\node_modules\@parcel\runtime-browser-hmr\LICENSE133739537347840000 0
 63E:\PracticeHTMLCSS\node_modules\dotenv-expand\dotenv-expand.png133728685821230000 0
@@ -2471,6 +2451,9 @@
 77E:\PracticeHTMLCSS\node_modules\node-gyp-build-optional-packages\package.json133739537429380000 0
 57E:\PracticeHTMLCSS\node_modules\chokidar\esm\index.js.map133731033011700000 0
 67E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\minifyJson.mjs133739537457080000 0
+45E:\PracticeHTMLCSS\node_modules\.bin\sass.cmd133743879854640431 0
+82E:\PracticeHTMLCSS\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133743879854542295 0
+61E:\PracticeHTMLCSS\node_modules\@parcel\runtime-react-refresh133743878729688663 1
 50E:\PracticeHTMLCSS\node_modules\lmdb\node-index.js133739537360110000 0
 102E:\PracticeHTMLCSS\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\package.json133739537430620000 0
 99E:\PracticeHTMLCSS\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\README.md133739537430620000 0
@@ -2575,6 +2558,8 @@
 50E:\PracticeHTMLCSS\node_modules\msgpackr\stream.js133739537323060000 0
 58E:\PracticeHTMLCSS\node_modules\entities\lib\maps\xml.json133739537468100000 0
 53E:\PracticeHTMLCSS\node_modules\msgpackr\unpack.d.cts133739537323060000 0
+34E:\PracticeHTMLCSS\dist\index.html133743894819784529 0
+52E:\PracticeHTMLCSS\node_modules\msgpackr\unpack.d.ts133739537323060000 0
 90E:\PracticeHTMLCSS\node_modules\msgpackr\node_modules\.bin\download-msgpackr-prebuilds.cmd133743879854309384 0
 76E:\PracticeHTMLCSS\node_modules\minimatch\dist\cjs\assert-valid-pattern.d.ts133731053828750000 0
 63E:\PracticeHTMLCSS\node_modules\msgpackr\dist\index-no-eval.cjs133739537323060000 0
@@ -2604,10 +2589,10 @@
 66E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\minifyCss.mjs133739537457080000 0
 73E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_to_consumable_array.cjs133739537365220000 0
 50E:\PracticeHTMLCSS\node_modules\minimatch\dist\cjs133743879853219158 1
+51E:\PracticeHTMLCSS\node_modules\dotenv\package.json133739537323020000 0
+50E:\PracticeHTMLCSS\node_modules\minimatch\dist\mjs133743879853219158 1
 87E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\document-scrollingelement.js133743878720140000 0
 66E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\minifyCss.cjs133739537457080000 0
-50E:\PracticeHTMLCSS\node_modules\minimatch\dist\mjs133743879853219158 1
-51E:\PracticeHTMLCSS\node_modules\dotenv\package.json133739537323020000 0
 42E:\PracticeHTMLCSS\node_modules\.bin\jsesc133743879854512451 0
 69E:\PracticeHTMLCSS\node_modules\@parcel\transformer-json\package.json133739537343430000 0
 76E:\PracticeHTMLCSS\node_modules\minimatch\dist\mjs\assert-valid-pattern.d.ts133731053828750000 0
@@ -2645,6 +2630,7 @@
 83E:\PracticeHTMLCSS\node_modules\@parcel\core\test\fixtures\main-global\package.json133739537316340000 0
 64E:\PracticeHTMLCSS\node_modules\minimatch\dist\mjs\unescape.d.ts133731053828750000 0
 68E:\PracticeHTMLCSS\node_modules\minimatch\dist\mjs\unescape.d.ts.map133731053828750000 0
+47E:\PracticeHTMLCSS\src\assets\icons\objects.svg133740824364321242 0
 66E:\PracticeHTMLCSS\node_modules\minimatch\dist\mjs\unescape.js.map133731053828750000 0
 78E:\PracticeHTMLCSS\node_modules\minimatch\dist\cjs\assert-valid-pattern.js.map133731053828750000 0
 66E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\ruby.js133743878720140000 0
@@ -2700,9 +2686,11 @@
 45E:\PracticeHTMLCSS\node_modules\mdn-data\l10n133743878734257583 1
 77E:\PracticeHTMLCSS\node_modules\@parcel\transformer-raw\src\RawTransformer.js133739537341160000 0
 48E:\PracticeHTMLCSS\node_modules\mdn-data\LICENSE133728685992740000 0
+43E:\PracticeHTMLCSS\dist\plane3.c16a0963.svg133743894822016601 0
 53E:\PracticeHTMLCSS\node_modules\mdn-data\package.json133728685992740000 0
 54E:\PracticeHTMLCSS\node_modules\mdn-data\l10n\css.json133728685992740000 0
 58E:\PracticeHTMLCSS\node_modules\mdn-data\css\at-rules.json133728685992740000 0
+45E:\PracticeHTMLCSS\src\assets\icons\group.svg133740817823413322 0
 53E:\PracticeHTMLCSS\node_modules\mdn-data\css\index.js133728685992740000 0
 65E:\PracticeHTMLCSS\node_modules\mdn-data\css\syntaxes.schema.json133728685992740000 0
 62E:\PracticeHTMLCSS\node_modules\lmdb\dependencies\lmdb-data-v1133743878729532382 1
@@ -3003,6 +2991,9 @@
 57E:\PracticeHTMLCSS\node_modules\dotenv-expand\lib\main.js133728685821230000 0
 79E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\loading-lazy-attr.js133743878720140000 0
 55E:\PracticeHTMLCSS\node_modules\js-yaml\lib\type\int.js133728685853040000 0
+77E:\PracticeHTMLCSS\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133739537343140000 0
+55E:\PracticeHTMLCSS\node_modules\@parcel\transformer-raw133743878731852101 1
+55E:\PracticeHTMLCSS\node_modules\js-yaml\lib\type\map.js133728685853040000 0
 73E:\PracticeHTMLCSS\node_modules\cosmiconfig\dist\getPropertyByPath.js.map133739537465120000 0
 74E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\style-scoped.js133743878720140000 0
 73E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_class_name_tdz_error.js133739537365220000 0
@@ -3145,6 +3136,7 @@
 81E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\normalizeAttributeValues.mjs133739537457080000 0
 78E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\removeAttributeQuotes.mjs133739537457080000 0
 71E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\removeComments.cjs133739537457080000 0
+78E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\removeEmptyAttributes.mjs133739537457080000 0
 82E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\removeRedundantAttributes.mjs133739537457080000 0
 63E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\regions\FR.js133743878720140000 0
 74E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\offline-apps.js133743878720140000 0
@@ -3156,6 +3148,7 @@
 80E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\sortAttributesWithLists.cjs133739537457080000 0
 53E:\PracticeHTMLCSS\node_modules\base-x\src\index.d.ts133739537322910000 0
 50E:\PracticeHTMLCSS\node_modules\htmlnano\docs\docs133743878736130445 1
+48E:\PracticeHTMLCSS\src\assets\icons\group(1).svg133740818046032938 0
 47E:\PracticeHTMLCSS\node_modules\find-up\license133728685877390000 0
 58E:\PracticeHTMLCSS\node_modules\htmlnano\docs\package.json133739537457080000 0
 87E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md133739537457080000 0
@@ -3204,6 +3197,7 @@
 58E:\PracticeHTMLCSS\node_modules\glob\dist\mjs\pattern.d.ts133731053826340000 0
 60E:\PracticeHTMLCSS\node_modules\glob\dist\mjs\processor.d.ts133731053826340000 0
 58E:\PracticeHTMLCSS\node_modules\glob\dist\mjs\processor.js133731053826340000 0
+62E:\PracticeHTMLCSS\node_modules\glob\dist\mjs\processor.js.map133731053826340000 0
 55E:\PracticeHTMLCSS\node_modules\glob\dist\mjs\walker.js133731053826340000 0
 55E:\PracticeHTMLCSS\node_modules\glob\dist\cjs\glob.d.ts133731053826340000 0
 59E:\PracticeHTMLCSS\node_modules\glob\dist\cjs\glob.d.ts.map133731053826340000 0
@@ -3539,6 +3533,7 @@
 70E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\promises.js133743878720140000 0
 78E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\text-size-adjust.js133743878720140000 0
 61E:\PracticeHTMLCSS\node_modules\csso\lib\replace\Dimension.js133728685966790000 0
+45E:\PracticeHTMLCSS\dist\location.518294a2.svg133743894822046494 0
 83E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\extended-system-fonts.js133743878720140000 0
 58E:\PracticeHTMLCSS\node_modules\csso\lib\replace\Number.js133728685966790000 0
 65E:\PracticeHTMLCSS\node_modules\@parcel\workers\src\childState.js133739537322460000 0
@@ -3768,6 +3763,7 @@
 85E:\PracticeHTMLCSS\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133739537365220000 0
 57E:\PracticeHTMLCSS\node_modules\css-select\lib\general.js133728685967630000 0
 57E:\PracticeHTMLCSS\node_modules\brace-expansion\README.md133728685941880000 0
+50E:\PracticeHTMLCSS\src\assets\icons\ellipse 23.svg133743270703669194 0
 63E:\PracticeHTMLCSS\node_modules\css-select\lib\pseudo-selectors133743878736090584 1
 60E:\PracticeHTMLCSS\node_modules\css-select\lib\sort.d.ts.map133728685967630000 0
 54E:\PracticeHTMLCSS\node_modules\css-select\lib\sort.js133728685967630000 0
@@ -4172,6 +4168,7 @@
 56E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_jsx.js133739537365220000 0
 62E:\PracticeHTMLCSS\node_modules\@babel\core\lib\config\item.js133743879846410000 0
 82E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-display-contents.js133743878720140000 0
+43E:\PracticeHTMLCSS\dist\plane1.2ee0aa47.svg133743894821996749 0
 81E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-filter-function.js133743878720140000 0
 73E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-filters.js133743878720140000 0
 68E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\webnfc.js133743878720140000 0
@@ -4202,6 +4199,8 @@
 79E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133743878720140000 0
 80E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-matches-pseudo.js133743878720140000 0
 80E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-math-functions.js133743878720140000 0
+51E:\PracticeHTMLCSS\dist\PracticeHTMLCSS.59712999.js133743888664013150 0
+84E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133743878720140000 0
 82E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-media-resolution.js133743878720140000 0
 81E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-media-scripting.js133743878720140000 0
 60E:\PracticeHTMLCSS\node_modules\brace-expansion\package.json133728685941880000 0
@@ -4393,6 +4392,7 @@
 72E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\object-fit.js133743878720140000 0
 75E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\object-values.js133743878720140000 0
 71E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\objectrtc.js133743878720140000 0
+62E:\PracticeHTMLCSS\node_modules\@parcel\runtime-service-worker133743878729688663 1
 69E:\PracticeHTMLCSS\node_modules\@babel\helpers\lib\helpers\tdz.js.map133743879846620000 0
 77E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\offscreencanvas.js133743878720140000 0
 72E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\ogg-vorbis.js133743878720140000 0
@@ -4553,6 +4553,8 @@
 41E:\PracticeHTMLCSS\node_modules\babel\lib133743877905554267 1
 50E:\PracticeHTMLCSS\node_modules\babel\package.json133741387611940000 0
 69E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_define_property.cjs133739537365220000 0
+67E:\PracticeHTMLCSS\node_modules\@parcel\transformer-postcss\LICENSE133739537349780000 0
+47E:\PracticeHTMLCSS\node_modules\babel\README.md133741387611940000 0
 48E:\PracticeHTMLCSS\node_modules\babel\lib\cli.js133741387611940000 0
 53E:\PracticeHTMLCSS\node_modules\argparse\package.json133728685929550000 0
 61E:\PracticeHTMLCSS\node_modules\@swc\helpers\_\_object_spread133743878736349401 1
@@ -4568,6 +4570,7 @@
 78E:\PracticeHTMLCSS\node_modules\abortcontroller-polyfill\src\abortableFetch.js133739537325670000 0
 88E:\PracticeHTMLCSS\node_modules\abortcontroller-polyfill\src\abortcontroller-polyfill.js133739537325670000 0
 79E:\PracticeHTMLCSS\node_modules\abortcontroller-polyfill\src\abortcontroller.js133739537325670000 0
+47E:\PracticeHTMLCSS\dist\rectangle2.ceeeb1f5.png133743894822166099 0
 88E:\PracticeHTMLCSS\node_modules\@babel\helpers\lib\helpers\classPrivateFieldLooseBase.js133743879846620000 0
 94E:\PracticeHTMLCSS\node_modules\abortcontroller-polyfill\dist\abortcontroller-polyfill-only.js133739537325670000 0
 86E:\PracticeHTMLCSS\node_modules\@babel\helpers\lib\helpers\initializerWarningHelper.js133743879846620000 0
@@ -4742,6 +4745,7 @@
 77E:\PracticeHTMLCSS\node_modules\@swc\helpers\src\_interop_require_default.mjs133739537365220000 0
 71E:\PracticeHTMLCSS\node_modules\@swc\helpers\src\_iterable_to_array.mjs133739537365220000 0
 71E:\PracticeHTMLCSS\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133739537365220000 0
+50E:\PracticeHTMLCSS\src\assets\icons\group 9236.svg133740820231543048 0
 80E:\PracticeHTMLCSS\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133739537365220000 0
 67E:\PracticeHTMLCSS\node_modules\@swc\helpers\src\_object_spread.mjs133739537365220000 0
 80E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_object_destructuring_empty.cjs133739537365220000 0
@@ -4777,6 +4781,7 @@
 67E:\PracticeHTMLCSS\node_modules\@babel\helper-module-transforms\lib133743879852533185 1
 70E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_apply_decs_2203_r.js133739537365220000 0
 72E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_array_without_holes.js133739537365220000 0
+50E:\PracticeHTMLCSS\src\assets\icons\group 9237.svg133740820080362501 0
 69E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_array_with_holes.js133739537365220000 0
 54E:\PracticeHTMLCSS\node_modules\@swc\counter\README.md133739537461120000 0
 67E:\PracticeHTMLCSS\node_modules\@swc\helpers\esm\_async_iterator.js133739537365220000 0
@@ -4899,12 +4904,6 @@
 52E:\PracticeHTMLCSS\node_modules\@parcel\reporter-cli133743878729688663 1
 56E:\PracticeHTMLCSS\node_modules\@parcel\resolver-default133743878729688663 1
 50E:\PracticeHTMLCSS\node_modules\@parcel\runtime-js133743878729688663 1
-45E:\PracticeHTMLCSS\node_modules\.bin\sass.cmd133743879854640431 0
-82E:\PracticeHTMLCSS\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133743879854542295 0
-61E:\PracticeHTMLCSS\node_modules\@parcel\runtime-react-refresh133743878729688663 1
-62E:\PracticeHTMLCSS\node_modules\@parcel\runtime-service-worker133743878729688663 1
-70E:\PracticeHTMLCSS\node_modules\@parcel\transformer-babel\package.json133739537345540000 0
-44E:\PracticeHTMLCSS\node_modules\@parcel\rust133743878731051554 1
 74E:\PracticeHTMLCSS\node_modules\@parcel\transformer-html\node_modules\.bin133743879853940001 1
 50E:\PracticeHTMLCSS\node_modules\@parcel\source-map133743879853940001 1
 57E:\PracticeHTMLCSS\node_modules\@parcel\transformer-babel133743879853940001 1
@@ -5440,6 +5439,7 @@
 65E:\PracticeHTMLCSS\node_modules\@babel\helpers\lib\helpers\jsx.js133743879846620000 0
 76E:\PracticeHTMLCSS\node_modules\@parcel\node-resolver-core\node_modules\.bin133743879853783596 1
 83E:\PracticeHTMLCSS\node_modules\@parcel\node-resolver-core\node_modules\.bin\semver133743879853783596 0
+47E:\PracticeHTMLCSS\dist\location 1.a755cdf3.svg133743894822016601 0
 82E:\PracticeHTMLCSS\node_modules\@parcel\node-resolver-core\lib\builtins.browser.js133739537356790000 0
 74E:\PracticeHTMLCSS\node_modules\@parcel\node-resolver-core\lib\builtins.js133739537356790000 0
 73E:\PracticeHTMLCSS\node_modules\@parcel\namer-default\lib\DefaultNamer.js133739537331200000 0
@@ -5508,6 +5508,7 @@
 64E:\PracticeHTMLCSS\node_modules\@parcel\core\test\Parcel.test.js133739537316340000 0
 70E:\PracticeHTMLCSS\node_modules\@parcel\core\test\ParcelConfig.test.js133739537316340000 0
 69E:\PracticeHTMLCSS\node_modules\@parcel\core\test\PublicAsset.test.js133739537316340000 0
+43E:\PracticeHTMLCSS\dist\plane2.942df233.svg133743894822016601 0
 74E:\PracticeHTMLCSS\node_modules\@parcel\core\test\PublicDependency.test.js133739537316340000 0
 75E:\PracticeHTMLCSS\node_modules\@parcel\core\test\PublicEnvironment.test.js133739537316340000 0
 72E:\PracticeHTMLCSS\node_modules\@parcel\core\test\RequestTracker.test.js133739537316340000 0
@@ -5835,6 +5836,7 @@
 92E:\PracticeHTMLCSS\node_modules\@babel\types\lib\converters\gatherSequenceExpressions.js.map133743879846460000 0
 86E:\PracticeHTMLCSS\node_modules\@babel\types\lib\converters\toBindingIdentifierName.js133743879846460000 0
 90E:\PracticeHTMLCSS\node_modules\@babel\types\lib\converters\toBindingIdentifierName.js.map133743879846460000 0
+54E:\PracticeHTMLCSS\src\assets\icons\layer_1-vector.svg133740822250683101 0
 70E:\PracticeHTMLCSS\node_modules\@babel\types\lib\converters\toBlock.js133743879846460000 0
 74E:\PracticeHTMLCSS\node_modules\@babel\types\lib\converters\toBlock.js.map133743879846460000 0
 76E:\PracticeHTMLCSS\node_modules\@babel\types\lib\converters\toComputedKey.js133743879846460000 0
@@ -6188,6 +6190,7 @@
 79E:\PracticeHTMLCSS\node_modules\@babel\core\lib\transformation\file\file.js.map133743879846410000 0
 79E:\PracticeHTMLCSS\node_modules\@babel\core\lib\transformation\file\generate.js133743879846410000 0
 83E:\PracticeHTMLCSS\node_modules\@babel\core\lib\transformation\file\generate.js.map133743879846410000 0
+47E:\PracticeHTMLCSS\dist\add-user 1.8d2a863e.svg133743894819594346 0
 84E:\PracticeHTMLCSS\node_modules\@babel\core\lib\transformation\file\merge-map.js.map133743879846410000 0
 79E:\PracticeHTMLCSS\node_modules\@babel\core\lib\tools\build-external-helpers.js133743879846410000 0
 83E:\PracticeHTMLCSS\node_modules\@babel\core\lib\tools\build-external-helpers.js.map133743879846410000 0
@@ -6262,7 +6265,21 @@
 43E:\PracticeHTMLCSS\node_modules\.bin\parcel133743879854630459 0
 43E:\PracticeHTMLCSS\node_modules\.bin\parser133743879854462541 0
 47E:\PracticeHTMLCSS\node_modules\.bin\parser.cmd133743879854462541 0
-51E:\PracticeHTMLCSS\dist\Roboto-Regular.4f1a78ee.ttf133743888663941993 0
-55E:\PracticeHTMLCSS\dist\PracticeHTMLCSS.59712999.js.map133743888664013150 0
-41E:\PracticeHTMLCSS\dist\logo.0ff1e26a.svg133743888664219626 0
+42E:\PracticeHTMLCSS\dist\earth.4ed11861.svg133743894819594346 0
+47E:\PracticeHTMLCSS\dist\Ellipse 23.a5e03491.svg133743894822056466 0
 42E:\PracticeHTMLCSS\dist\index.05858833.css133743888809517751 0
+42E:\PracticeHTMLCSS\dist\line1.660075bf.svg133743894821996749 0
+42E:\PracticeHTMLCSS\dist\line2.3358bc7b.svg133743894822056466 0
+42E:\PracticeHTMLCSS\dist\line3.ee54e776.svg133743894819594346 0
+41E:\PracticeHTMLCSS\dist\logo.0ff1e26a.svg133743888664219626 0
+52E:\PracticeHTMLCSS\dist\play-circle.5 1.9d8b3444.svg133743894821986727 0
+55E:\PracticeHTMLCSS\dist\PracticeHTMLCSS.59712999.js.map133743888664013150 0
+47E:\PracticeHTMLCSS\dist\rectangle1.1426a785.png133743894822176069 0
+51E:\PracticeHTMLCSS\dist\Roboto-Regular.4f1a78ee.ttf133743888663941993 0
+43E:\PracticeHTMLCSS\dist\work 1.26b8a8da.svg133743894822046494 0
+50E:\PracticeHTMLCSS\src\assets\icons\objects(1).svg133740825094152737 0
+50E:\PracticeHTMLCSS\src\assets\icons\group 9239.svg133740821578399365 0
+50E:\PracticeHTMLCSS\src\assets\icons\group 9235.svg133740818652341391 0
+47E:\PracticeHTMLCSS\src\assets\icons\group 2.svg133740817911198488 0
+56E:\PracticeHTMLCSS\src\assets\icons\graphic_elements.svg133740823849781394 0
+48E:\PracticeHTMLCSS\src\assets\icons\frame 50.png133740821335723191 0
