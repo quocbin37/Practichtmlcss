@@ -7,7 +7,9 @@
   margin-right: -14rem;
   &_text {
     width: 27.8rem;
-
+    h3{
+      color: var(--Grey-Scale-Black, #191825);
+    }
     h4 {
       align-self: stretch;
       color: var(--Secondary, #f85e9f);
@@ -27,7 +29,7 @@
     gap: 1.3125rem;
     flex-shrink: 0;
 
-    .card {
+    .card2 {
       display: flex;
       height: 27.6875rem;
       padding: 4rem;
