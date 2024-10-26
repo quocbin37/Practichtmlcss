@@ -1,0 +1,27 @@
+{
+  "name": "PracticeHTMLCSS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/quocbin37/Practichtmlcss.git",
+  "author": "Pham Nhu Quoc Trieu <phamnhuquoctrieu307@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "posthtml": "posthtml src/index.html -o dist/index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.9",
+    "@parcel/transformer-sass": "^2.12.0",
+    "babel-plugin-module-resolver": "^5.0.2",
+    "parcel": "^2.12.0",
+    "posthtml": "^0.16.6",
+    "posthtml-include": "^2.0.1"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "HTMLCSSPRACTICE": "file:",
+    "PracticeHTMLCSS": "file:",
+    "sass": "^1.80.3"
+  }
+}
