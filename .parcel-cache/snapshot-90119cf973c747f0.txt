@@ -1,10 +1,10 @@
-6265
+6267
 46E:\PracticeHTMLCSS\node_modules\domelementtype133743878732025706 1
 38E:\PracticeHTMLCSS\node_modules\base-x133743878731975883 1
 52E:\PracticeHTMLCSS\node_modules\semver\bin\semver.js133728685825120000 0
 63E:\PracticeHTMLCSS\node_modules\lightningcss\node\index.js.flow133739537363270000 0
 83E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\minipass\dist\esm\index.js133728685982520000 0
-23E:\PracticeHTMLCSS\dist133743884662461926 1
+23E:\PracticeHTMLCSS\dist133743888809517751 1
 65E:\PracticeHTMLCSS\node_modules\@babel\generator\lib\index.js.map133743879846480000 0
 90E:\PracticeHTMLCSS\node_modules\@parcel\rust\parcel-node-bindings.linux-arm-gnueabihf.node133739537329340000 0
 59E:\PracticeHTMLCSS\node_modules\type-fest\source\entry.d.ts133728685930040000 0
@@ -28,8 +28,8 @@
 93E:\PracticeHTMLCSS\node_modules\path-scurry\node_modules\lru-cache\dist\commonjs\index.min.js133728685982490000 0
 72E:\PracticeHTMLCSS\node_modules\@parcel\utils\src\generateCertificate.js133739537316350000 0
 67E:\PracticeHTMLCSS\node_modules\sass\types\value\argument_list.d.ts133742582771630000 0
+34E:\PracticeHTMLCSS\dist\index.html133743888664151020 0
 52E:\PracticeHTMLCSS\node_modules\msgpackr\unpack.d.ts133739537323060000 0
-34E:\PracticeHTMLCSS\dist\index.html133743884662207659 0
 59E:\PracticeHTMLCSS\node_modules\resolve\test\precedence\aaa133743879853375583 1
 61E:\PracticeHTMLCSS\node_modules\svgo\plugins\convertColors.js133728685968160000 0
 84E:\PracticeHTMLCSS\node_modules\@parcel\package-manager\test\fixtures\packages\peers133743878736715125 1
@@ -40,9 +40,8 @@
 56E:\PracticeHTMLCSS\node_modules\svgo\lib\svgo\jsAPI.d.ts133728685968160000 0
 54E:\PracticeHTMLCSS\node_modules\picomatch\lib\parse.js133728685802570000 0
 62E:\PracticeHTMLCSS\node_modules\glob\dist\mjs\processor.js.map133731053826340000 0
-51E:\PracticeHTMLCSS\dist\PracticeHTMLCSS.59712999.js133743884662461926 0
+51E:\PracticeHTMLCSS\dist\PracticeHTMLCSS.59712999.js133743888664013150 0
 84E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133743878720140000 0
-51E:\PracticeHTMLCSS\dist\Roboto-Regular.4f1a78ee.ttf133743884662262043 0
 58E:\PracticeHTMLCSS\node_modules\color-convert\package.json133728685796280000 0
 45E:\PracticeHTMLCSS\node_modules\color-convert133743878732015741 1
 61E:\PracticeHTMLCSS\node_modules\csso\lib\restructure\utils.js133728685966790000 0
@@ -57,16 +56,15 @@
 83E:\PracticeHTMLCSS\node_modules\@parcel\core\test\fixtures\custom-format-infer-type133743878736444123 1
 59E:\PracticeHTMLCSS\node_modules\htmlnano\docs\versions.json133739537457080000 0
 56E:\PracticeHTMLCSS\node_modules\is-core-module\.eslintrc133728685873760000 0
+46E:\PracticeHTMLCSS\dist\index.05858833.css.map133743888809517751 0
 68E:\PracticeHTMLCSS\node_modules\@babel\types\lib\ast-types\generated133743879853375583 1
 40E:\PracticeHTMLCSS\node_modules\entities133743878732025706 1
-46E:\PracticeHTMLCSS\dist\index.05858833.css.map133743884662461926 0
 51E:\PracticeHTMLCSS\node_modules\locate-path\license133728685927820000 0
 61E:\PracticeHTMLCSS\node_modules\utility-types\dist\index.d.ts133739537356560000 0
 50E:\PracticeHTMLCSS\src\assets\icons\add-user 1.svg133743256388508115 0
 78E:\PracticeHTMLCSS\node_modules\htmlnano\lib\modules\removeEmptyAttributes.mjs133739537457080000 0
 67E:\PracticeHTMLCSS\node_modules\@parcel\transformer-postcss\LICENSE133739537349780000 0
 47E:\PracticeHTMLCSS\node_modules\babel\README.md133741387611940000 0
-55E:\PracticeHTMLCSS\dist\PracticeHTMLCSS.59712999.js.map133743884662461926 0
 50E:\PracticeHTMLCSS\node_modules\json5\package.json133728685836760000 0
 43E:\PracticeHTMLCSS\src\assets\images\mobile133743882547701768 1
 61E:\PracticeHTMLCSS\node_modules\weak-lru-cache\dist\index.cjs133739537443320000 0
@@ -79,7 +77,6 @@
 77E:\PracticeHTMLCSS\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133739537343140000 0
 55E:\PracticeHTMLCSS\node_modules\@parcel\transformer-raw133743878731852101 1
 55E:\PracticeHTMLCSS\node_modules\js-yaml\lib\type\map.js133728685853040000 0
-42E:\PracticeHTMLCSS\dist\index.05858833.css133743884662461926 0
 55E:\PracticeHTMLCSS\src\stylesheet\base\_typography.scss133742588956821864 0
 79E:\PracticeHTMLCSS\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js133739537316340000 0
 47E:\PracticeHTMLCSS\node_modules\lmdb\caching.js133739537360110000 0
@@ -110,7 +107,7 @@
 53E:\PracticeHTMLCSS\node_modules\browserslist\error.js133742437397940000 0
 54E:\PracticeHTMLCSS\node_modules\env-paths\package.json133739537468410000 0
 52E:\PracticeHTMLCSS\node_modules\type-fest\index.d.ts133728685930040000 0
-53E:\PracticeHTMLCSS\src\stylesheet\layout\_header.scss133743883047311208 0
+53E:\PracticeHTMLCSS\src\stylesheet\layout\_header.scss133743888808673066 0
 66E:\PracticeHTMLCSS\node_modules\resolve\test\node-modules-paths.js133728685824680000 0
 77E:\PracticeHTMLCSS\node_modules\resolve\test\resolver\same_names\foo\index.js133728685824680000 0
 84E:\PracticeHTMLCSS\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133739537365220000 0
@@ -208,6 +205,7 @@
 57E:\PracticeHTMLCSS\node_modules\css-select\lib\index.d.ts133728685967630000 0
 73E:\PracticeHTMLCSS\node_modules\source-map-js\lib\source-map-generator.js133728685865070000 0
 29E:\PracticeHTMLCSS\src\layout133743882548014293 1
+46E:\PracticeHTMLCSS\dist\menu.11 1.6e580583.svg133743888664288017 0
 57E:\PracticeHTMLCSS\src\stylesheet\components\_common.scss133742634379659733 0
 86E:\PracticeHTMLCSS\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133739537347840000 0
 63E:\PracticeHTMLCSS\node_modules\lmdb\dependencies\lz4\lib\lz4.c133739537360110000 0
@@ -348,7 +346,7 @@
 41E:\PracticeHTMLCSS\node_modules\@mischnic133743878727709529 1
 75E:\PracticeHTMLCSS\node_modules\caniuse-lite\data\features\link-icon-svg.js133743878720140000 0
 58E:\PracticeHTMLCSS\node_modules\@parcel\graph\lib\types.js133739537357190000 0
-41E:\PracticeHTMLCSS\src\layout\header.html133743882875680911 0
+41E:\PracticeHTMLCSS\src\layout\header.html133743888662650966 0
 48E:\PracticeHTMLCSS\node_modules\parcel\README.md133739537471100000 0
 39E:\PracticeHTMLCSS\src\layout\main.html133743882915117927 0
 66E:\PracticeHTMLCSS\node_modules\@parcel\core\src\Transformation.js133739537316340000 0
@@ -6264,3 +6262,7 @@
 43E:\PracticeHTMLCSS\node_modules\.bin\parcel133743879854630459 0
 43E:\PracticeHTMLCSS\node_modules\.bin\parser133743879854462541 0
 47E:\PracticeHTMLCSS\node_modules\.bin\parser.cmd133743879854462541 0
+51E:\PracticeHTMLCSS\dist\Roboto-Regular.4f1a78ee.ttf133743888663941993 0
+55E:\PracticeHTMLCSS\dist\PracticeHTMLCSS.59712999.js.map133743888664013150 0
+41E:\PracticeHTMLCSS\dist\logo.0ff1e26a.svg133743888664219626 0
+42E:\PracticeHTMLCSS\dist\index.05858833.css133743888809517751 0
