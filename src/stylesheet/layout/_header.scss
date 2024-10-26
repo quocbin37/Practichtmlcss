@@ -5,11 +5,12 @@
 
 .container {
   display: flex;
-  width: 74rem;
-  padding: 2rem 0rem;
+  height:  7.06rem;
   justify-content: space-between;
   align-items: center;
-  padding: 0;
+  margin: 0 8rem ;
+  padding:2rem 0rem;
+
 }
 .logo {
   display: flex;
@@ -53,6 +54,7 @@
   display: flex;
   align-items: flex-start;
   width: 26.75rem;
+
 
   .nav_item {
     .nav_link {
