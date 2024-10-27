@@ -1,11 +1,13 @@
 @use "../../abstracts/" as *;
 
-.travelpoint {
+.feature {
   display: flex;
-  margin: 0rem 8rem 0rem 0rem;
-  padding: 4rem 0rem;
-  align-items: flex-end;
   width: 82rem;
+  padding: 4rem 0rem;
+  align-items: flex-start;
+  gap: 4.375rem;
+  margin: 0rem 0rem 0rem 8rem;
+
   &_content {
     display: flex;
     flex-direction: column;
@@ -19,7 +21,6 @@
       align-items: flex-start;
       gap: 2rem;
       align-self: stretch;
-
       &_text {
         display: flex;
         flex-direction: column;
@@ -59,45 +60,45 @@
         line-height: 160%;
       }
     }
-  }
 
-  &_card {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 2rem;
-    align-self: stretch;
-
-    &_element {
+    &_card {
       display: flex;
+      flex-direction: column;
       align-items: flex-start;
-      gap: 2rem;
       align-self: stretch;
 
-      .travelpoint_element {
-        //layout
+      &_element {
         display: flex;
         padding: 2rem;
-        flex-direction: column;
         align-items: center;
-        gap: 1rem;
-        flex: 1 0 0;
-        //style
+        gap: 2rem;
+        align-self: stretch;
+
+       
+      }
+    }
+    .feature_element {
+        display: flex;
+        padding: 2rem;
+        align-items: center;
+        gap: 2rem;
+        align-self: stretch;
         border-radius: 2rem;
-        border: 1px solid var(--Grey-Scale-Black-10, rgba(25, 24, 37, 0.1));
         background: var(--white, #fff);
 
-        h4 {
-          color: var(--Orange, #ff5722);
-          /* H4 */
-          font-family: "Circular Std";
-          font-size: 2.1875rem;
-          font-style: normal;
-          font-weight: 700;
-          line-height: 120%;
-
+        &_content {
           h6 {
             color: var(--Grey-Scale-Black, #191825);
+
+            /* H6 */
+            font-family: "Circular Std";
+            font-size: 1.4375rem;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 120%; /* 1.725rem */
+          }
+          p {
+            color: var(--Grey-Scale-Black-50, rgba(25, 24, 37, 0.5));
             /* Body */
             font-family: Inter;
             font-size: 1.125rem;
@@ -106,21 +107,15 @@
             line-height: 160%;
           }
         }
+        img {
+          width: 6.25rem;
+          height: 6.25rem;
+        }
       }
-    }
   }
   img {
-    width: 54.4375rem;
-    height: 43.5625rem;
+    width: 43.3125rem;
+    height: 54.3125rem;
     flex-shrink: 0;
   }
-}
-.frame50{
-  width: 17.3125rem;
-height: 22.0625rem;
-flex-shrink: 0;
-
-position: absolute;
-right: 0;
-top: 178rem;
 }
