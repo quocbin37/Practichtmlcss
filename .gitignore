@@ -14,7 +14,8 @@ dist/
 # System files
 .DS_Store
 
-.parcel-cache/
 
 Thumbs.db
+.parcel-cache/
+
 
