@@ -1,3 +1,143 @@
 @use "../abstracts/" as *;
 
 
+@use "../abstracts/" as *;
+
+.container {
+  display: flex;
+  width: 74rem;
+  padding: 2rem 0rem;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 8.8725rem;
+  height: 2.5rem;
+  margin: 2rem 0rem;
+
+  &_image {
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+  }
+
+  &_name {
+    height: 2.5rem;
+    width: 5.375rem;
+    margin-left: 1rem;
+    color: var(--Black, #191825);
+    font-family: "Circular Std";
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 2.5rem;
+  }
+}
+.toggle {
+  display: none;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  width: 3rem;
+  height: 3rem;
+}
+
+.navbar {
+  display: flex;
+  align-items: flex-start;
+  width: 26.75rem;
+
+  .nav_item {
+    .nav_link {
+      color: var(--Grey-Scale-Black-50, rgba(25, 24, 37, 0.5));
+      /* Button */
+      font-family: "Circular Std";
+      font-size: 0.875rem;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 120%;
+
+      &.active {
+        color: var(--Dark, #222831);
+      }
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+.button_group {
+  display: flex;
+  justify-content: center;
+  height: 3.0625rem;
+  margin: 2rem 0rem;
+  .btn_login {
+    border-radius: 6.25rem;
+    background: var(--white, #fff);
+
+    &_content {
+      display: flex;
+      text-align: center;
+      align-items: center;
+      color: var(--Dark, #222831);
+    }
+  }
+  .btn_signup {
+    border: none;
+    border-radius: 6.25rem;
+    background: var(--Primary, #5d50c6);
+
+    &_content {
+      color: var(--Light, #eee);
+    }
+  }
+}
+
+@include tablet {
+  .container {
+    width: 100%;
+  }
+  .navbar {
+    display: none;
+  }
+  .toggle {
+    display: block;
+    order: -1;
+    margin-left: 2.5rem;
+  }
+  .logo {
+    order: 0;
+  }
+  .button_group {
+    margin-right: 2.5rem;
+  }
+}
+
+@include mobile {
+  .container {
+    width: 100%;
+    padding: 1rem 0rem;
+  }
+
+  .button_group {
+    display: none;
+  }
+
+  .logo {
+    order: 0;
+    margin-left: 1rem;
+  }
+  .toggle {
+    display: block;
+    order: 1;
+    margin-right: 1rem;
+  }
+}
