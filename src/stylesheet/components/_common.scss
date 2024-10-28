@@ -2,8 +2,6 @@
 @forward "button";
 
 .container {
-  max-width: 1140px;
-  margin: 0 auto;
 
   @include tablet {
     max-width: 720px;

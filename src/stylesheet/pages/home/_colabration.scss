@@ -1,0 +1,10 @@
+@use "../../abstracts/" as *;
+
+.colabration{
+    display: flex;
+    margin: 0rem 8rem ;
+    padding: 4rem 0rem;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 10rem;
+}
