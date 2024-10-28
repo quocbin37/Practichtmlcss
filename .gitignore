@@ -1,9 +1,20 @@
+# Node modules
 node_modules/
+
+# Parcel cache and build output
 .cache/
 dist/
+.parcel-cache/
+
+# Logs and temporary files
 *.log
 *.tmp
 *.temp
+
+# System files
 .DS_Store
-Thumbs.db
+
 .parcel-cache/
+
+Thumbs.db
+
