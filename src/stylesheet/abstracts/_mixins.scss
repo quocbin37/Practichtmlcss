@@ -1,0 +1,47 @@
+@use "variables" as *;
+@use "functions" as *;
+
+// Media-Query Mixin
+@mixin mobile {
+  @media screen and (max-width: $mobile) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media screen and (max-width: $tablet) {
+    @content;
+  }
+}
+
+// Flex
+@mixin flex(
+  $display: flex,
+  $direction: false,
+  $align: false,
+  $justify: false,
+  $wrap: false
+) {
+  display: $display;
+  @if $direction {
+    flex-direction: $direction;
+  }
+  @if $align {
+    align-items: $align;
+  }
+  @if $justify {
+    justify-content: $justify;
+  }
+  @if $wrap {
+    flex-wrap: $wrap;
+  }
+}
+
+// Background image
+
+@mixin bg-img($bg: "") {
+  background-image: url($bg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

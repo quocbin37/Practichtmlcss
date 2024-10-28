@@ -1,4 +1,5 @@
 ## HTML-CSS-Practice
+
 ## OVERVIEW
 
 This document provides the list of important technologies that would be used to implement, the objectives to be achieved and the progress of the project.
@@ -19,6 +20,7 @@ Sass
 ## WEB DESIGN:
 
 https://www.figma.com/design/aTVriCRGtPrzb3656s51LS/Responsive-Web-Design-in-Figma-(Community)?node-id=206-173&t=xeTRtOVzQ8TNi1vl-1
+
 
 ##SOURCE CODE 
 
