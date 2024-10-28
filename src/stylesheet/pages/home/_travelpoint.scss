@@ -1,0 +1,114 @@
+.travelpoint {
+  display: flex;
+  margin: 0rem 8rem 0rem 0rem;
+  padding: 4rem 0rem;
+  align-items: flex-end;
+  &_content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4rem;
+    flex: 1 0 0;
+
+    &_header {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 2rem;
+      align-self: stretch;
+
+      &_text {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+        align-self: stretch;
+
+        h5 {
+          color: var(--Secondary, #f85e9f);
+          font-family: "Circular Std";
+          font-size: 1.4375rem;
+          font-style: normal;
+          font-weight: 700;
+          line-height: 120%; /* 1.725rem */
+          letter-spacing: 0.2875rem;
+          text-transform: uppercase;
+          align-self: stretch;
+        }
+        h3 {
+          color: var(--Grey-Scale-Black, #191825);
+          /* H3 */
+          font-family: "Circular Std";
+          font-size: 2.75rem;
+          font-style: normal;
+          font-weight: 700;
+          line-height: 120%;
+        }
+      }
+
+      &_decr {
+        color: var(--Grey-Scale-Black-50, rgba(25, 24, 37, 0.5));
+        /* Body */
+        font-family: Inter;
+        font-size: 1.125rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 160%;
+      }
+    }
+  }
+
+  &_card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+    align-self: stretch;
+
+    &_element {
+      display: flex;
+      align-items: flex-start;
+      gap: 2rem;
+      align-self: stretch;
+
+      .travelpoint_element {
+        //layout
+        display: flex;
+        padding: 2rem;
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+        flex: 1 0 0;
+        //style
+        border-radius: 2rem;
+        border: 1px solid var(--Grey-Scale-Black-10, rgba(25, 24, 37, 0.1));
+        background: var(--white, #fff);
+
+        h4 {
+          color: var(--Orange, #ff5722);
+          /* H4 */
+          font-family: "Circular Std";
+          font-size: 2.1875rem;
+          font-style: normal;
+          font-weight: 700;
+          line-height: 120%;
+
+          h6 {
+            color: var(--Grey-Scale-Black, #191825);
+            /* Body */
+            font-family: Inter;
+            font-size: 1.125rem;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 160%;
+          }
+        }
+      }
+    }
+  }
+  img {
+    width: 54.4375rem;
+    height: 43.5625rem;
+    flex-shrink: 0;
+  }
+}
