@@ -1,1 +1,79 @@
 @use "../abstracts/" as *;
+
+
+.footer{
+    display: flex;
+width: var(--width-value);
+padding: 4rem 0rem;
+align-items: flex-start;
+gap: 4rem;
+margin: 0 auto;
+
+   .logo_section {
+      
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+    align-self: stretch;
+      &_top{
+        display: flex;
+align-items: center;
+gap: 1rem;
+
+      &_name{
+        color: var(--Black, #191825);
+font-family: "Circular Std";
+font-size: 1.5rem;
+font-style: normal;
+font-weight: 900;
+line-height: 2.5rem; /* 166.667% */
+      }
+      &_decr{
+        align-self: stretch;
+        color: var(--Grey-Scale-Black-50, rgba(25, 24, 37, 0.50));
+font-family: "Circular Std";
+font-size: 1.4375rem;
+font-style: normal;
+font-weight: 450;
+line-height: 160%; 
+      }
+      }
+      &_social_icons{
+        display: flex;
+align-items: flex-start;
+gap: 2rem;
+      }
+   }
+   .column{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 2rem;
+flex: 1 0 0;
+
+   &_name{
+    color: var(--Grey-Scale-Black, #191825);
+
+/* H6 */
+font-family: "Circular Std";
+font-size: 1.4375rem;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 1.725rem */
+     &_list_link{
+        color: var(--Grey-Scale-Black-75, rgba(25, 24, 37, 0.75));
+       list-style: none;
+/* Body */
+font-family: Inter;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 1.8rem */
+     }
+    
+
+   }
+   }
+}
+
