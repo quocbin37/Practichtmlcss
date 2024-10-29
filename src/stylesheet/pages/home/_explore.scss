@@ -4,7 +4,9 @@
   display: flex;
   padding: 4rem 0rem;
   align-items: center;
-  margin: 0rem 8rem ;
+  margin: 0 auto ;
+  width:var(--width-value);
+
 
   &_left {
     display: flex;

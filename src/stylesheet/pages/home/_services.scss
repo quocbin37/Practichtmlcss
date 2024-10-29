@@ -2,7 +2,7 @@
 
 .services {
   display: flex;
-  width: 96rem;
+  width:var(--width-value);
   padding: 4rem 0rem;
   align-items: center;
   margin-left: 8rem;

@@ -2,7 +2,7 @@
 
 .feature {
   display: flex;
-  width: 82rem;
+  width: var( --width-lage-value);
   padding: 4rem 0rem;
   align-items: flex-start;
   gap: 4.375rem;
@@ -28,7 +28,7 @@
         gap: 1rem;
         align-self: stretch;
 
-        h5 {
+        &_h5 {
           color: var(--Secondary, #f85e9f);
           font-family: "Circular Std";
           font-size: 1.4375rem;
@@ -39,7 +39,7 @@
           text-transform: uppercase;
           align-self: stretch;
         }
-        h3 {
+        &_h3 {
           color: var(--Grey-Scale-Black, #191825);
           /* H3 */
           font-family: "Circular Std";
@@ -70,11 +70,7 @@
       &_element {
         display: flex;
         padding: 2rem;
-        align-items: center;
-        gap: 2rem;
-        align-self: stretch;
-
-       
+        
       }
     }
     .feature_element {
