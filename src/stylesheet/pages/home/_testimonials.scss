@@ -1,19 +1,41 @@
 @use "../../abstracts/" as *;
 
+.testimonials {
+  width: 100%;
+  margin-top: -450px;
+  height: 60rem;
+  position: relative;
 
-.testjmonials {
+  &_layer {
+    z-index: -99;
+    width: 90rem;
+  }
+  &_main {
     position: absolute;
-    height: 40.31rem;
     z-index: 2;
+    top: 375px;
+    margin: 0 8rem;
+
     display: flex;
-   
+    width: var(--width-value);
     align-items: center;
     gap: 3.5rem;
-   
-    position: relative;
+     
+    
+      &_footer{
+        display: flex;
+        align-items: flex-start;
+        gap: 1.5rem;
+      }
+    
+     
+    &_left {
+      width: 6.25rem;
+      height: 6.25rem;
+      flex-shrink: 0;
+    }
 
- 
-    &_main {
+    &_content {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -27,8 +49,7 @@
         gap: 1rem;
         align-self: stretch;
 
-        .content {
-          align-self: stretch;
+        &_title {
           color: var(--Secondary, #f85e9f);
           text-align: center;
           font-family: "Circular Std";
@@ -39,9 +60,7 @@
           letter-spacing: 0.2875rem;
           text-transform: uppercase;
         }
-        h3 {
-          align-self: stretch;
-
+        &_name {
           color: var(--Grey-Scale-Black, #191825);
           text-align: center;
 
@@ -54,11 +73,10 @@
         }
       }
 
-      .ellipse22 {
+      &_image {
         width: 8rem;
         height: 8rem;
       }
-
       &_star {
         display: flex;
         flex-direction: column;
@@ -66,39 +84,37 @@
         gap: 2rem;
         align-self: stretch;
 
-        .top {
-          align-self: stretch;
-          color: var(--Orange, #ff5722);
-          text-align: center;
+        &_name {
+          color: var(--Grey-Scale-Black-75, rgba(25, 24, 37, 0.75));
 
-          /* H5 */
+          /* H6 */
           font-family: "Circular Std";
-          font-size: 1.75rem;
+          font-size: 1.4375rem;
           font-style: normal;
           font-weight: 700;
-          line-height: 120%; /* 2.1rem */
-          .normal {
-            color: var(--Grey-Scale-Black-75, rgba(25, 24, 37, 0.75));
+          line-height: 120%;
 
-            /* H6 */
+          span{
+            color: var(--Orange, #ff5722);
+            text-align: center;
+
             font-family: "Circular Std";
-            font-size: 1.4375rem;
+            font-size: 1.75rem;
             font-style: normal;
             font-weight: 700;
-            line-height: 120%;
+            line-height: 120%; /* 2.1rem */
           }
         }
-        .bot {
+        
+        &_rating{
           display: flex;
-          justify-content: center;
-          align-items: flex-start;
-          gap: 1rem;
+justify-content: center;
+align-items: flex-start;
+gap: 1rem;
         }
       }
 
       &_decr {
-        align-self: stretch;
-
         color: var(--Grey-Scale-Black-75, rgba(25, 24, 37, 0.75));
 text-align: center;
 font-family: "Circular Std";
@@ -107,36 +123,22 @@ font-style: normal;
 font-weight: 450;
 line-height: 160%; /* 2.3rem */
       }
-      .node{
-        display: flex;
-align-items: flex-start;
-gap: 1.5rem;
-      }
     }
+
    
-    .btn_left {
-        width: 6.25rem;
-        height: 6.25rem;
-        position: relative;
-      }
-      .arrow {
-        position: absolute;
-        top: 2.39rem;
-        left: 2.28rem;
-        width: 1.5rem;
-        height: 1.5rem;
-        flex-shrink: 0;
-      } 
-      .layer1{
-        display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-shrink: 0;
-    position: absolute;
-    bottom: -15.5rem;
-       
-       .vector{
-        width: 100%;
-       }
-    }
+  }
 }
+.btn_left {
+          width: 6.25rem;
+          height: 6.25rem;
+          position: relative;
+        }
+        .arrow {
+          position: absolute;
+          top: 2.39rem;
+          left: 2.28rem;
+          width: 1.5rem;
+          height: 1.5rem;
+          flex-shrink: 0;
+        }
+
