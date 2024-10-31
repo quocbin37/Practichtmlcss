@@ -2,9 +2,11 @@
 
 .colabration{
     display: flex;
-    margin: 0rem 8rem ;
+    margin: 0 auto ;
     padding: 4rem 0rem;
     justify-content: space-between;
     align-items: flex-start;
     height: 10rem;
+    width:var(--width-value);
+
 }

@@ -1,0 +1,107 @@
+@use "../../abstracts/" as *;
+
+.subcribe {
+  display: flex;
+  width: 74rem;
+  padding: 8rem 4rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4rem;
+  margin: 10rem auto;
+  
+  border-radius: 2rem;
+  background: rgba(250, 205, 73, 0.08);
+
+  &_content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4rem;
+    align-self: stretch;
+
+    &_header {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 2rem;
+      align-self: stretch;
+
+      &_name {
+        color: var(--Secondary, #f85e9f);
+        text-align: center;
+        font-family: "Circular Std";
+        align-self: stretch;
+        font-size: 1.4375rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 120%; /* 1.725rem */
+        letter-spacing: 0.2875rem;
+        text-transform: uppercase;
+      }
+      &_decr {
+        color: var(--Grey-Scale-Black, #191825);
+        text-align: center;
+
+        /* H2 */
+        align-self: stretch;
+        font-family: "Circular Std";
+        font-size: 3.4375rem;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 120%; /* 4.125rem */
+      }
+    
+    }
+    &_bot {
+        height: 6rem;
+        display: flex;
+        align-items: flex-start;
+        gap: 4rem;
+        align-self: stretch;
+        &_input {
+          display: flex;
+          padding: 2rem;
+          align-items: center;
+          gap: 1rem;
+          flex: 1 0 0;
+          align-self: stretch;
+
+          border-radius: 2rem;
+          background: var(--white, #fff);
+
+          &_text {
+            color: var(--Grey-Scale-Black-75, rgba(25, 24, 37, 0.75));
+            text-align: center;
+
+            /* H6 */
+            font-family: "Circular Std";
+            font-size: 1.4375rem;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 120%; /* 1.725rem */
+          }
+        }
+
+        &_button {
+          display: flex;
+          padding: 2rem 4rem;
+          align-items: center;
+          gap: 1rem;
+          align-self: stretch;
+          border-radius: 2rem;
+          background: var(--Primary, #5d50c6);
+          &_name {
+            color: var(--white, #fff);
+            text-align: center;
+
+            /* H6 */
+            font-family: "Circular Std";
+            font-size: 1.4375rem;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 120%; /* 1.725rem */
+          }
+        }
+      }
+  }
+}
