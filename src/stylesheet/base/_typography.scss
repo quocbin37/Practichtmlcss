@@ -4,7 +4,12 @@
   font-family: Roboto;
   src: url(../assets/fonts/Roboto/Roboto-Regular.ttf);
 }
-
+ 
+:root {
+  --width-value: 74rem;
+  --width-lage-value: 82rem;
+}
+ 
 body {
   font-family: $primary-font;
   font-weight: 400;
